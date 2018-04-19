@@ -1,6 +1,6 @@
 # GeoGebra et Moodle
 
-
+description du projet
 
 ## Pourcentage 
 
@@ -32,3 +32,5 @@ $$\frac 12$$
     if a>0:
       return a
 ```
+
+* liste ou pas liste ?

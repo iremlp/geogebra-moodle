@@ -24,13 +24,3 @@ Voici 7 exercices sur les pourcentages :
 * valeurs aléatoires (quantités, unités, questions, etc.)
 * notation automatique avec le plugin moodle : grâce à la variable *grade*
 * et quoi d'autre ?
-
-$$\frac 12$$
-
-```python
-  def math():
-    if a>0:
-      return a
-```
-
-* liste ou pas liste ?

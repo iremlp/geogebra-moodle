@@ -26,3 +26,9 @@ Voici 7 exercices sur les pourcentages :
 * et quoi d'autre ?
 
 $$\frac 12$$
+
+```python
+  def math():
+    if a>0:
+      return a
+```

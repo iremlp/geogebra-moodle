@@ -1,4 +1,5 @@
-# Bienvenue
+# GeoGebra et Moodle
+
 
 
 ## Pourcentage 
@@ -23,3 +24,8 @@ Voici 7 exercices sur les pourcentages :
 * valeurs aléatoires (quantités, unités, questions, etc.)
 * notation automatique avec le plugin moodle : grâce à la variable *grade*
 * et quoi d'autre ?
+
+```python
+def zulip():
+    print "Zulip"
+```

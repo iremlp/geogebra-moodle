@@ -7,6 +7,7 @@ Voici 7 exercices sur les pourcentages :
 
 * cas 1 : pourcentage direct (calculer une quantité à partir du taux)
 [exerciseur_pourcentage1_550×700.ggb](./res/exerciseur_pourcentage1_550×700.ggb)
+
 * cas 2 : calculer un taux (à partir des quantités initiales et finales)
 * cas 3 : pourcentage indirect (calculer la quantité initiale à partir du taux)
 

@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Moodle et GeoGebra
+pages : 
+        - Accueil: 'index.md'
+        - Analyse Algèbre: 
+                - Pourcentages: 'analyse algèbre - pourcentages.md'
+                - Fonctions: 'analyse algèbre - fonctions.md'
+

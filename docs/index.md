@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Ressources Moodle / GeoGebra
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## Contenu du site
+Vous trouverez sur ce site des fichiers GeoGebra utilisés sur la plateforme Moodle.
+La particularité de ces fichiers est qu'ils permettent d'évaluer l'élève automatiquement. Chaque fichier comporte un système de score que Moodle peut récupérer. Pour cela, il faut utiliser un plugin liant GeoGebra et Moodle
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Qui sommes-nous ?
+Notre groupe, Innovation, Expérimentation et Formation en Lycée Professionnel (InEFLP, fait parti de l'IREM (Institut de Recherche sur l'Enseignement des Mathématiques) de Marseille.

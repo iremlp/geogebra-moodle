@@ -1,39 +1,8 @@
-# Bienvenue
+# Ressources Moodle / GeoGebra
 
-Hello, World !
+## Contenu du site
+Vous trouverez sur ce site des fichiers GeoGebra utilisés sur la plateforme Moodle.
+La particularité de ces fichiers est qu'ils permettent d'évaluer l'élève automatiquement. Chaque fichier comporte un système de score que Moodle peut récupérer. Pour cela, il faut utiliser un plugin liant GeoGebra et Moodle
 
-
-Un exemple de liste :
-
-* premier élement
-
-  1. sous-élement
-  2. sous-élement
-
-* deuxième élement
-
-Un exemple de tableau :
-
-+----------+---------+----------+
-|  titre 1 | titre 2 | titre 3  |
-+----------+---------+----------+
-|  case 1  |                    |
-+----------+       case 4       |
-|  case 2  +---------+----------+
-+----------+         |          |
-|  case 3  |  case 5 |  case 6  |
-+----------+---------+----------+
-
-différents styles de texte :
-
-*important*, **très important**,
-``code source``, etc.
-
-un lien hypertexte :
-
-http://culot.org
-
-utiliser des macros :
-
-date : |date|
-
+## Qui sommes-nous ?
+Notre groupe, Innovation, Expérimentation et Formation en Lycée Professionnel (InEFLP, fait parti de l'IREM (Institut de Recherche sur l'Enseignement des Mathématiques) de Marseille.

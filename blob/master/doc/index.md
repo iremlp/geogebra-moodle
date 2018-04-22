@@ -1,3 +1,0 @@
-# Bienvenue
-
-Hello, World !

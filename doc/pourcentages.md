@@ -1,6 +1,9 @@
 # Pourcentages
 Voici 7 exercices sur les pourcentages.
 
+<iframe scrolling="no" title="pourcentage 1" src="https://www.geogebra.org/material/iframe/id/GXyaHxuH/width/541/height/556/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="541px" height="556px" style="border:0px;"> </iframe>
+
+
 # Fichiers à télécharger
 
 1. [exerciseur_pourcentage1_550×700.ggb](./res/exerciseur_pourcentage1_550×700.ggb) : pourcentage direct (calculer une quantité à partir du taux)

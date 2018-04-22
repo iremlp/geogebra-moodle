@@ -1,8 +1,8 @@
-## Pourcentage 
+# Pourcentage 
 
 Voici 7 exercices sur les pourcentages :
 
-### Fichiers à télécharger
+## Fichiers à télécharger
 
 1. [exerciseur_pourcentage1_550×700.ggb](./res/exerciseur_pourcentage1_550×700.ggb) : pourcentage direct (calculer une quantité à partir du taux)
 2. [exerciseur_pourcentage2_550×700.ggb](./res/exerciseur_pourcentage2_550×700.ggb) : calculer un taux (à partir des quantités initiales et finales)

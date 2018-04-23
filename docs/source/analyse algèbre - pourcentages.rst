@@ -16,9 +16,9 @@ Fichiers à télécharger
 ======================
 
 .. list-table:: Pourcentages directs et indirects
-   :widths: 20 10
-   :header-rows: 1 
-   :stub-columns: 1
+   :widths: auto auto
+   :header-rows: 1
+   :align: center
 
    * - Fichier
      - Description 
@@ -30,6 +30,8 @@ Fichiers à télécharger
      - pourcentage indirect (calculer la quantité initiale à partir du taux)
 
 .. list-table:: Augmentations, diminutions de pourcentages
+   :widths: auto auto
+   :header-rows: 1 
 
    * - Fichier
      - Description 
@@ -41,12 +43,8 @@ Fichiers à télécharger
      - calculer la quantité initiale connaissant la quantité finale et le taux d'augmentation/réduction
 
 .. list-table:: Synthèse
-   :widths: 20 10
-   :header-rows: 1 
-   :stub-columns: 1
+   :widths: auto auto
 
-   * - Fichier
-     - Description 
    * - :download: `pourcentage7.ggb <res/exerciseur_pourcentage7_550×700_totale.ggb>`_
      - la synthèse : un mélange de tous les cas précédents 
 

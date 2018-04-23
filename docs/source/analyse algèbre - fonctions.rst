@@ -5,8 +5,6 @@ Fonctions
 Fichiers à télécharger
 ======================
 
-Calcul d'images
----------------
 
 
 .. list-table:: Calcul d'images
@@ -18,7 +16,7 @@ Calcul d'images
    * - `calcul-image-affine.ggb <res/exerciseur_AA-calcul-image-affine%20-%20460x537.ggb>`_
      - calculer l'image à partir de l'expression algébrique d'une fonction affine
    * - `calcul-image-polynôme.ggb <./res/exerciseur_AA-calcul-image-polynome%20-%20522x419.ggb>`_
-   calculer l'image à partir de l'éxpression algébrique d'une fonction rationnelle
+     - calculer l'image à partir de l'éxpression algébrique d'une fonction rationnelle
 
 
 .. list-table:: Sens de variation
@@ -31,3 +29,4 @@ Calcul d'images
      - déterminer le sens de variation d'une fonction affine à partir de sa représentation graphique
    * - `sens de variation fonction affine.ggb <./res/exerciseur_sens%20de%20variation%20fonction%20affine%20.ggb>`_
      - déterminer le sens de variation d'une fonction affine à partir de l'expression algébrique
+     

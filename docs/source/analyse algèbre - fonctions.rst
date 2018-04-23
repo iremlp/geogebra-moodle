@@ -27,6 +27,6 @@ Fichiers à télécharger
      - Description
    * - `sens de variation fonction affine graphique.ggb <_static/exerciseur_sens%20de%20variation%20fonction%20affine_%20graphique.ggb>`_
      - déterminer le sens de variation d'une fonction affine à partir de sa représentation graphique
-   * - `sens de variation fonction affine.ggb <_static/exerciseur_sens%20de%20variation%20fonction%20affine%20.ggb>`_
+   * - `sens de variation fonction affine.ggb <_static/exerciseur_sens de variation fonction affine_.ggb>`_
      - déterminer le sens de variation d'une fonction affine à partir de l'expression algébrique
      

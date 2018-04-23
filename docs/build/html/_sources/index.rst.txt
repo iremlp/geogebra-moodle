@@ -39,6 +39,7 @@ Notre groupe, *Innovation, Expérimentation et Formation en Lycée Professionnel
 Table des matières du site
 ==========================
 
+
 .. toctree::
    :maxdepth: 1
    :caption: Analyse et Algèbre
@@ -46,6 +47,14 @@ Table des matières du site
    analyse algèbre - pourcentages.rst
    analyse algèbre - fonctions.rst
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Géométrie
+
+   geom-vecteur.rst
+
+   
 .. toctree::
    :maxdepth: 1
    :caption: Ressources

@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'GeoGebra et Moodle'
-copyright = u'2018, Bruno Bourgine, Sylvain Ferrero, Pascal Padilla'
+copyright = u'2018, IREM de Marseille, Groupe InEFLP'
 author = u'Bruno Bourgine, Sylvain Ferrero, Pascal Padilla'
 
 # The short X.Y version

@@ -31,19 +31,18 @@ Fichiers à télécharger
 .. list-table:: Augmentations, diminutions de pourcentages
    :widths: 1,2
 
-   * - :download: `pourcentage4.ggb] <res/exerciseur_pourcentage4_550×700.ggb>`_
+   * - `pourcentage4.ggb] <res/exerciseur_pourcentage4_550×700.ggb>`_
      - calculer une quantité après une augmentation/réduction
-   * - :download: `pourcentage5.ggb <res/exerciseur_pourcentage5_550×700.ggb>`_
+   * - `pourcentage5.ggb <res/exerciseur_pourcentage5_550×700.ggb>`_
      - calculer un taux d'augmentation/réduction
-   * - :download: `pourcentage6.ggb <res/exerciseur_pourcentage6_550×700.ggb>`_
+   * - `pourcentage6.ggb <res/exerciseur_pourcentage6_550×700.ggb>`_
      - calculer la quantité initiale connaissant la quantité finale et le taux d'augmentation/réduction
 
 
 .. list-table:: Synthèse
    :widths: 1,2
-   :align: center
 
-   * - :download: `pourcentage7.ggb <res/exerciseur_pourcentage7_550×700_totale.ggb>`_
+   * - `pourcentage7.ggb <res/exerciseur_pourcentage7_550×700_totale.ggb>`_
      - la synthèse : un mélange de tous les cas précédents 
 
 

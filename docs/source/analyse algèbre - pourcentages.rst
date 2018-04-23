@@ -31,11 +31,8 @@ Fichiers à télécharger
 
 .. list-table:: Augmentations, diminutions de pourcentages
    :widths: 1,2
-   :header-rows: 1
    :align: right
 
-   * - Fichier
-     - Description 
    * - :download: `pourcentage4.ggb] <res/exerciseur_pourcentage4_550×700.ggb>`_
      - calculer une quantité après une augmentation/réduction
    * - :download: `pourcentage5.ggb <res/exerciseur_pourcentage5_550×700.ggb>`_

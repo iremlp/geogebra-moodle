@@ -10,7 +10,6 @@ Bienvenus sur nos pages GeoGebra et Moodle !
    :maxdepth: 1
    :caption: Analyse et Algèbre
 
-   analyse algèbre - pourcentages.rst
    analyse algèbre - fonctions.rst
    test.md
 

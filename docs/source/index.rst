@@ -46,3 +46,8 @@ Table des matières du site
    analyse algèbre - pourcentages.rst
    analyse algèbre - fonctions.rst
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Ressources
+
+   ressources.rst

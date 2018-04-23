@@ -16,18 +16,17 @@ Fichiers à télécharger
 ======================
 
 .. list-table:: Fichiers disponibles et description
-   :widths: 20 20
+   :widths: 20 10
    :header-rows: 1 
    :stub-columns: 1
 
    * - Fichier
      - Description 
-   * - Contenu 1 
-     - Contenu 2
-   *  - :download: `pourcentage1.ggb <res/exerciseur_pourcentage1_550×700.ggb>`_ 
-      - pourcentage direct (calculer une quantité à partir du taux)
-      
-2. [exerciseur_pourcentage2_550×700.ggb](./res/exerciseur_pourcentage2_550×700.ggb) : calculer un taux (à partir des quantités initiales et finales)
+   * - :download: `pourcentage1.ggb <res/exerciseur_pourcentage1_550×700.ggb>`_ 
+     - pourcentage direct (calculer une quantité à partir du taux)
+   * - :download: `pourcentage2.ggb <res/exerciseur_pourcentage2_550×700.ggb>`_
+     - calculer un taux (à partir des quantités initiales et finales)
+     
 3. [exerciseur_pourcentage3_550×700.ggb](./res/exerciseur_pourcentage3_550×700.ggb) : pourcentage indirect (calculer la quantité initiale à partir du taux)
 
 4. [exerciseur_pourcentage4_550×700.ggb](./res/exerciseur_pourcentage4_550×700.ggb) : caluler une quantité après une augmentation/réduction

@@ -5,8 +5,11 @@ Pourcentages
 Nous vous proposons 7 exercices sur les pourcentages. 
 Voici par exemple l'exercice 7 qui nous a servi de **synthèse**.
 
+
+alors ?
+
 .. raw:: html
-  :src:"_static/iframe_pourcentage.html
+   :file: _static/iframe_pourcentage.html
 
 
 Fichiers à télécharger

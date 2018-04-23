@@ -19,7 +19,7 @@ Fichiers à télécharger
 .. list-table:: Synthèse
    :widths: 1,2
 
-   * - `tt <_static/exerciseur_pourcentage7_550×700_totale.ggb>`_
+   * - `tt <_static/exerciseur_pourcentage7_550×700_totale.ggb>`_ t
      - la synthèse : un mélange de tous les cas précédents 
 
 

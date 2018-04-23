@@ -1,8 +1,12 @@
-# Fonctions
+*********
+Fonctions
+*********
 
-# Fichiers à télécharger
+Fichiers à télécharger
+======================
 
-**Calcul d'images**
+Calcul d'images
+---------------
 
 | Fichiers       | Description  |
 | -------------- |--------------|
@@ -10,7 +14,8 @@
 |[AA-calcul-image-polynôme.ggb](./res/exerciseur_AA-calcul-image-polynome%20-%20522x419.ggb)  | calculer l'image à partir de l'éxpression algébrique d'une fonction rationnelle |
 
 
-**Sens de variation**
+Sens de variation
+-----------------
 
 | Fichiers       | Description  |
 | -------------- |--------------|

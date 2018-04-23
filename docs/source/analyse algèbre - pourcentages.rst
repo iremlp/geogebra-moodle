@@ -24,11 +24,8 @@ Fichiers à télécharger
      - Description 
    * - :download: `pourcentage1.ggb <res/exerciseur_pourcentage1_550×700.ggb>`_ 
      - pourcentage direct (calculer une quantité à partir du taux)
-     
-     
-     
-* - :download: `pourcentage2.ggb <res/exerciseur_pourcentage2_550×700.ggb>`_
-- calculer un taux (à partir des quantités initiales et finales)
+   * - :download: `pourcentage2.ggb <res/exerciseur_pourcentage2_550×700.ggb>`_
+     - calculer un taux (à partir des quantités initiales et finales)
      
 3. [exerciseur_pourcentage3_550×700.ggb](./res/exerciseur_pourcentage3_550×700.ggb) : pourcentage indirect (calculer la quantité initiale à partir du taux)
 

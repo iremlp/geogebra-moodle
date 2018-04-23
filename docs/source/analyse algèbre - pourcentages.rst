@@ -45,7 +45,8 @@ Fichiers à télécharger
 
 
 .. list-table:: Synthèse
-   :widths: auto auto
+   :widths: 1,2
+   :align: center
 
    * - :download: `pourcentage7.ggb <res/exerciseur_pourcentage7_550×700_totale.ggb>`_
      - la synthèse : un mélange de tous les cas précédents 

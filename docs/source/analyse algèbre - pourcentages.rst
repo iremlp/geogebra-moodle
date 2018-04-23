@@ -29,6 +29,7 @@ Fichiers à télécharger
    * - :download: `pourcentage3.ggb] <res/exerciseur_pourcentage3_550×700.ggb>`_
      - pourcentage indirect (calculer la quantité initiale à partir du taux)
 
+
 .. list-table:: Augmentations, diminutions de pourcentages
    :widths: auto auto
    :header-rows: 1 
@@ -41,6 +42,7 @@ Fichiers à télécharger
      - calculer un taux d'augmentation/réduction
    * - :download: `pourcentage6.ggb <res/exerciseur_pourcentage6_550×700.ggb>`_
      - calculer la quantité initiale connaissant la quantité finale et le taux d'augmentation/réduction
+
 
 .. list-table:: Synthèse
    :widths: auto auto

@@ -30,7 +30,7 @@ Fichiers à télécharger
 
 
 .. list-table:: Augmentations, diminutions de pourcentages
-   :widths: auto
+   :widths: 1,2
    :header-rows: 1
    :align: right
 

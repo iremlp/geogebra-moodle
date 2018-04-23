@@ -57,6 +57,6 @@ Table des matières du site
    
 .. toctree::
    :maxdepth: 1
-   :caption: Ressources
+   :caption: Autres ressources
 
    ressources.rst

@@ -15,7 +15,18 @@ Voici par exemple l'exercice 7 qui nous a servi de **synthèse**.
 Fichiers à télécharger
 ======================
 
-1. [exerciseur_pourcentage1_550×700.ggb](./res/exerciseur_pourcentage1_550×700.ggb) : pourcentage direct (calculer une quantité à partir du taux)
+.. list-table:: Fichiers disponibles et description
+   :widths: 20 20
+   :header-rows: 1 
+   :stub-columns: 1
+
+   * - Fichier
+     - Description 
+   * - Contenu 1 
+     - Contenu 2
+   *  - :download: `pourcentage1.ggb <res/exerciseur_pourcentage1_550×700.ggb>`_ 
+      - pourcentage direct (calculer une quantité à partir du taux)
+      
 2. [exerciseur_pourcentage2_550×700.ggb](./res/exerciseur_pourcentage2_550×700.ggb) : calculer un taux (à partir des quantités initiales et finales)
 3. [exerciseur_pourcentage3_550×700.ggb](./res/exerciseur_pourcentage3_550×700.ggb) : pourcentage indirect (calculer la quantité initiale à partir du taux)
 

@@ -12,6 +12,7 @@ Bienvenus sur nos pages GeoGebra et Moodle !
 
    analyse algèbre - pourcentages.rst
    analyse algèbre - fonctions.rst
+   test.md
 
 
 Indices and tables

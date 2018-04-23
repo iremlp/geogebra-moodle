@@ -15,7 +15,7 @@ Voici par exemple l'exercice 7 qui nous a servi de **synthèse**.
 Fichiers à télécharger
 ======================
 
-.. list-table:: Fichiers disponibles et description
+.. list-table:: Pourcentages directs et indirects
    :widths: 20 10
    :header-rows: 1 
    :stub-columns: 1
@@ -26,14 +26,34 @@ Fichiers à télécharger
      - pourcentage direct (calculer une quantité à partir du taux)
    * - :download: `pourcentage2.ggb <res/exerciseur_pourcentage2_550×700.ggb>`_
      - calculer un taux (à partir des quantités initiales et finales)
-     
-3. [exerciseur_pourcentage3_550×700.ggb](./res/exerciseur_pourcentage3_550×700.ggb) : pourcentage indirect (calculer la quantité initiale à partir du taux)
+   * - :download: `pourcentage3.ggb] <res/exerciseur_pourcentage3_550×700.ggb>`_
+     - pourcentage indirect (calculer la quantité initiale à partir du taux)
 
-4. [exerciseur_pourcentage4_550×700.ggb](./res/exerciseur_pourcentage4_550×700.ggb) : caluler une quantité après une augmentation/réduction
-5. [exerciseur_pourcentage5_550×700.ggb](./res/exerciseur_pourcentage5_550×700.ggb) : calculer un taux d'augmentation/réduction
-6. [exerciseur_pourcentage6_550×700.ggb](./res/exerciseur_pourcentage6_550×700.ggb) : calculer la quantité initiale connaissant la quantité finale et le taux d'augmentation/réduction
+.. list-table:: Augmentations, diminutions de pourcentages
+   :widths: 20 10
+   :header-rows: 1 
+   :stub-columns: 1
 
-7. [exerciseur_pourcentage7_550×700_totale.ggb](./res/exerciseur_pourcentage7_550×700_totale.ggb) : la synthèse => un mélange de tous les cas précédents 
+   * - Fichier
+     - Description 
+   * - :download: `pourcentage4.ggb] <res/exerciseur_pourcentage4_550×700.ggb>`_
+     - calculer une quantité après une augmentation/réduction
+   * - :download: `pourcentage5.ggb <res/exerciseur_pourcentage5_550×700.ggb>`_
+     - calculer un taux d'augmentation/réduction
+   * - :download: `pourcentage6.ggb <res/exerciseur_pourcentage6_550×700.ggb>`_
+     - calculer la quantité initiale connaissant la quantité finale et le taux d'augmentation/réduction
+
+.. list-table:: Synthèse
+   :widths: 20 10
+   :header-rows: 1 
+   :stub-columns: 1
+
+   * - Fichier
+     - Description 
+   * - :download: `pourcentage7.ggb <res/exerciseur_pourcentage7_550×700_totale.ggb>`_
+     - la synthèse : un mélange de tous les cas précédents 
+
+
 
 Caractéristiques
 ================

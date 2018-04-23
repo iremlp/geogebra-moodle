@@ -16,9 +16,8 @@ Fichiers à télécharger
 ======================
 
 .. list-table:: Pourcentages directs et indirects
-   :widths: auto auto
    :header-rows: 1
-   :align: center
+   :align: left
 
    * - Fichier
      - Description 
@@ -31,8 +30,9 @@ Fichiers à télécharger
 
 
 .. list-table:: Augmentations, diminutions de pourcentages
-   :widths: auto auto
-   :header-rows: 1 
+   :widths: auto
+   :header-rows: 1
+   :align: right
 
    * - Fichier
      - Description 

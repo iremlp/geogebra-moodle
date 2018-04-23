@@ -3,15 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to GeoGebra et Moodle's documentation!
-==============================================
+Bienvenus sur nos pages GeoGebra et Moodle !
+============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   analyse algèbre - pourcentages.md
-   analyse algèbre - fonctions.md
+   analyse algèbre - pourcentages.rst
+   analyse algèbre - fonctions.rst
 
 
 Indices and tables

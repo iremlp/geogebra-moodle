@@ -19,7 +19,7 @@ Fichiers à télécharger
 .. list-table:: Synthèse
    :widths: 1,2
 
-   * - `tt <www.google.fr>`_ t
+   * - `tt <_static/exerciseur_pourcentage1_550%C3%97700.ggb>`_ t
      - la synthèse : un mélange de tous les cas précédents 
 
 

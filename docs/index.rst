@@ -7,8 +7,8 @@ Bienvenus sur nos pages GeoGebra et Moodle !
 ============================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Analyse et Algèbre
 
    analyse algèbre - pourcentages.rst
    analyse algèbre - fonctions.rst

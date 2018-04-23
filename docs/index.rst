@@ -10,6 +10,8 @@ Welcome to GeoGebra et Moodle's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   analyse algèbre - pourcentages.md
+   analyse algèbre - fonctions.md
 
 
 Indices and tables

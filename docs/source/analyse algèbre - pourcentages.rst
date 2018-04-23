@@ -17,21 +17,19 @@ Fichiers à télécharger
 
 .. list-table:: Pourcentages directs et indirects
    :header-rows: 1
-   :align: left
 
    * - Fichier
      - Description 
-   * - :download: `pourcentage1.ggb <res/exerciseur_pourcentage1_550×700.ggb>`_ 
+   * - `pourcentage1.ggb <res/exerciseur_pourcentage1_550×700.ggb>`_ 
      - pourcentage direct (calculer une quantité à partir du taux)
-   * - :download: `pourcentage2.ggb <res/exerciseur_pourcentage2_550×700.ggb>`_
+   * - `pourcentage2.ggb <res/exerciseur_pourcentage2_550×700.ggb>`_
      - calculer un taux (à partir des quantités initiales et finales)
-   * - :download: `pourcentage3.ggb] <res/exerciseur_pourcentage3_550×700.ggb>`_
+   * - `pourcentage3.ggb] <res/exerciseur_pourcentage3_550×700.ggb>`_
      - pourcentage indirect (calculer la quantité initiale à partir du taux)
 
 
 .. list-table:: Augmentations, diminutions de pourcentages
    :widths: 1,2
-   :align: right
 
    * - :download: `pourcentage4.ggb] <res/exerciseur_pourcentage4_550×700.ggb>`_
      - calculer une quantité après une augmentation/réduction

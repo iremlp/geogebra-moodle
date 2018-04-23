@@ -22,6 +22,8 @@ Fichiers à télécharger
      - Description 
    * - Fichier
      - Description 
+   * - `pourcentage1.ggb <_static/exerciseur_pourcentage1_550×700.ggb>`_ 
+     - pourcentage direct (calculer une quantité à partir du taux)
 
 
 Caractéristiques

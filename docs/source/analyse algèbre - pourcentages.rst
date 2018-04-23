@@ -32,7 +32,7 @@ Fichiers à télécharger
 .. list-table:: Augmentations, diminutions de pourcentages
    :widths: 1,2
 
-   * - `pourcentage4.ggb] <_static/exerciseur_pourcentage4_550%C3%97700.ggb>`_
+   * - `pourcentage4.ggb <_static/exerciseur_pourcentage4_550%C3%97700.ggb>`_
      - calculer une quantité après une augmentation/réduction
    * - `pourcentage5.ggb <_static/exerciseur_pourcentage5_550%C3%97700.ggb>`_
      - calculer un taux d'augmentation/réduction

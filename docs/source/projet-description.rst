@@ -100,8 +100,6 @@ Une utilisation avancée du plugin permet la **notation automatique**.
 
    .. image:: _static/fig-moodle2.png
       :width: 30%
-
-
    .. image:: _static/fig-moodle3.png
       :width: 60%
       :align: right

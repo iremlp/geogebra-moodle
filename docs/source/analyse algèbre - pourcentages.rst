@@ -29,6 +29,7 @@ Fichiers à télécharger
      - pourcentage indirect (calculer la quantité initiale à partir du taux)
 
 
+
 .. list-table:: Augmentations, diminutions de pourcentages
    :widths: 1,2
 

@@ -42,6 +42,12 @@ Table des matières du site
 
 .. toctree::
    :maxdepth: 1
+   :caption: Description du projet
+
+   projet-description.rst
+
+.. toctree::
+   :maxdepth: 3
    :caption: Analyse et Algèbre
 
    analyse algèbre - pourcentages.rst

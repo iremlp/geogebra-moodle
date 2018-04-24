@@ -47,14 +47,14 @@ Nous utilisons Moodle pour mettre les élèves en activités à l'aide d'**éval
 
 .. tip:: 
 
-   .. image:: _static/fig-moodle.png
-      :width: 30%
-      :align: right
 
    Dans Moodle, nous utilisons la notation suivante :
     
    * nombre maximum de tentatives : **illimité**
    * méthode d'évaluation : **Tentative la plus haute**
+
+   .. image:: _static/fig-moodle.png
+      :width: 30%
 
 Ainsi, l'élève fait autant de fois qu'il le désire l'actitivé proposée. Il n'est pas obligé d'aller à son terme si c'est une activité répétitive. L'élève apprend de ses erreurs car un corrigé l'accompagne à chaque tentative. Lorsqu'il le désire, l'élève recommence l'activité et tente alors d'avoir un score maximal.
 
@@ -99,11 +99,9 @@ Une utilisation avancée du plugin permet la **notation automatique**.
 
 
    .. image:: _static/fig-moodle2.png
-      :height: 150pt
-
-
+      :width: 30%
    .. image:: _static/fig-moodle3.png
-      :height: 150pt
+      :width: 60%
       :align: right
 
 

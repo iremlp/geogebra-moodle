@@ -99,11 +99,11 @@ Une utilisation avancée du plugin permet la **notation automatique**.
 
 
    .. image:: _static/fig-moodle2.png
-      :height: 150pt
+      :height: 200px
 
 
    .. image:: _static/fig-moodle3.png
-      :height: 150pt
+      :height: 200px
       :align: right
 
 

@@ -14,13 +14,19 @@ Contenu du site
 ===============
 
 Vous trouverez sur ce site des fichiers **GeoGebra** utilisés sur la plateforme **Moodle**.
-La particularité de ces fichiers est qu'ils permettent d'évaluer l'élève automatiquement. Chaque fichier comporte un système de score que Moodle peut récupérer. Pour cela, il faut utiliser un plugin liant GeoGebra et Moodle
+La particularité de ces fichiers est qu'ils permettent d'évaluer l'élève automatiquement.
+Chaque fichier comporte un système de score que Moodle peut récupérer. Pour cela, il faut
+utiliser un plugin liant GeoGebra et Moodle
+
 
 Qui sommes-nous ?
 =================
-Nous sommes des enseignants de maths/sciences regroupés au sein d'un groupe de recherche de l'`IREM de Marseille <https://irem.univ-amu.fr/fr>`_.
+Nous sommes des enseignants de maths/sciences regroupés au sein d'un groupe de recherche
+de l'`IREM de Marseille <https://irem.univ-amu.fr/fr>`_.
 
-Notre groupe, *Innovation, Expérimentation et Formation en Lycée Professionnel* (InEFLP) a une partie de son travail consacré aux modalités de cours innovantes. Nous explorons actuellement la plateforme *Moodle*. 
+Notre groupe, *Innovation, Expérimentation et Formation en Lycée Professionnel* (InEFLP)
+a une partie de son travail consacré aux modalités de cours innovantes. Nous explorons
+actuellement la plateforme *Moodle*. 
 
 `Site du groupe InEFLP <https://irem.univ-amu.fr/fr/groupes-travail/groupe-travail-innovation-experimentation-formation-lp>`_.
 
@@ -45,6 +51,7 @@ Table des matières du site
    :caption: Description du projet
 
    projet-description.rst
+   projet-ressources.rst
 
 .. toctree::
    :maxdepth: 3
@@ -61,8 +68,3 @@ Table des matières du site
    geom-vecteur.rst
 
    
-.. toctree::
-   :maxdepth: 1
-   :caption: Autres ressources
-
-   ressources.rst

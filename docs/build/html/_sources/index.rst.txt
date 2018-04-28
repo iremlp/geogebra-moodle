@@ -52,6 +52,8 @@ Table des matières du site
 
    projet-description.rst
    projet-ressources.rst
+   projet-aPropos.rst
+
 
 .. toctree::
    :maxdepth: 3

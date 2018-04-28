@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Recherche &mdash; Documentation GeoGebra et Moodle </title>
+  <title>À propos de cette documentation &mdash; Documentation GeoGebra et Moodle </title>
   
 
   
@@ -28,7 +28,9 @@
     <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Recherche" href="#" /> 
+    <link rel="search" title="Recherche" href="search.html" />
+    <link rel="next" title="Pourcentages" href="analyse algèbre - pourcentages.html" />
+    <link rel="prev" title="Ressources en lignes" href="projet-ressources.html" /> 
 
   
   <script src="_static/js/modernizr.min.js"></script>
@@ -60,7 +62,7 @@
 
           
 <div role="search">
-  <form id="rtd-search-form" class="wy-form" action="#" method="get">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
     <input type="hidden" name="check_keywords" value="yes" />
     <input type="hidden" name="area" value="default" />
@@ -78,10 +80,13 @@
             
             
               <p class="caption"><span class="caption-text">Description du projet</span></p>
-<ul>
+<ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="projet-description.html">GeoGebra et Moodle ?</a></li>
 <li class="toctree-l1"><a class="reference internal" href="projet-ressources.html">Ressources en lignes</a></li>
-<li class="toctree-l1"><a class="reference internal" href="projet-aPropos.html">À propos de cette documentation</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">À propos de cette documentation</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#environnement-de-travail">Environnement de travail</a></li>
+</ul>
+</li>
 </ul>
 <p class="caption"><span class="caption-text">Analyse et Algèbre</span></p>
 <ul>
@@ -136,12 +141,14 @@
     
       <li><a href="index.html">Docs</a> &raquo;</li>
         
-      <li>Recherche</li>
+      <li>À propos de cette documentation</li>
     
     
       <li class="wy-breadcrumbs-aside">
         
             
+            <a href="_sources/projet-aPropos.rst.txt" rel="nofollow"> View page source</a>
+          
         
       </li>
     
@@ -153,24 +160,66 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <noscript>
-  <div id="fallback" class="admonition warning">
-    <p class="last">
-      Please activate JavaScript to enable the search
-      functionality.
-    </p>
-  </div>
-  </noscript>
+  <div class="section" id="a-propos-de-cette-documentation">
+<h1>À propos de cette documentation<a class="headerlink" href="#a-propos-de-cette-documentation" title="Lien permanent vers ce titre">¶</a></h1>
+<p>Nous publions cette documentation grâce aux outils suivant :</p>
+<ul class="simple">
+<li><strong>github</strong> pour stocker nos données, travailler à plusieurs sur la rédaction,
+relire et corriger.</li>
+<li><strong>readthedoc</strong> pour générer automatiquement cette documentation, héberger le site,
+générer à la demande une version HTML, ePUB ou PDF.</li>
+<li><strong>eclipse</strong> pour travailler en local sur nos machines, et synchroniser à la demande.</li>
+</ul>
+<p>Le format de documentation choisi pour rédiger cette doc est le <strong>RestructuredText</strong>.
+C’est un format <em>relativement</em> simple dans sa syntaxe mais qui offre une structure
+suffisament avancée pour permettre à des outils une génération automatique dans différents
+formats.</p>
+<p>Ainsi, à partir des mêmes fichiers sources, il est possible d’avoir un rendu de cette
+documentation dans bien des formats.</p>
+<div class="section" id="environnement-de-travail">
+<h2>Environnement de travail<a class="headerlink" href="#environnement-de-travail" title="Lien permanent vers ce titre">¶</a></h2>
+<p>Pour information, voici à quoi ressemble mon environnement de travail.
+Je rédige cette page dans <strong>Eclipse</strong>. Avec une commande (CTRL+B), je génère un rendu
+au format HTML que je visualise en direct dans la fenêtre de droite.</p>
+<a class="reference internal image-reference" href="_images/fig-aPropos.png"><img alt="_images/fig-aPropos.png" class="align-center" src="_images/fig-aPropos.png" style="width: 65%;" /></a>
+<p>C’est <em>plutôt</em> simple <a class="footnote-reference" href="#n1" id="id1">[1]</a> et fonctionnel.</p>
+<ol class="arabic simple">
+<li>Installer <strong>Eclipse</strong></li>
+<li>Dans le <em>Eclipse Marketplace</em>, installer <strong>ReST Editor</strong> <a class="footnote-reference" href="#n2" id="id2">[2]</a></li>
+<li>Synchroniser le dépot de <strong>github</strong> avec un dossier de travail dans votre répertoire
+<em>Workplace</em></li>
+<li>Configurer <em>Eclipse</em> pour que le rendu se fasse par la commande <em>build all (CTRL + B)</em></li>
+</ol>
+<hr class="docutils" />
+<table class="docutils footnote" frame="void" id="n1" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id1">[1]</a></td><td>Bon, j’avoue que j’ai passé pas mal de temps pour configurer tout ça.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="n2" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id2">[2]</a></td><td>Pour info, c’est la version 1.0.5 chez moi</td></tr>
+</tbody>
+</table>
+</div>
+</div>
 
-  
-  <div id="search-results">
-  
-  </div>
 
            </div>
            
           </div>
           <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="analyse algèbre - pourcentages.html" class="btn btn-neutral float-right" title="Pourcentages" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="projet-ressources.html" class="btn btn-neutral" title="Ressources en lignes" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
   
 
   <hr/>
@@ -211,7 +260,6 @@
       <script type="text/javascript" src="_static/underscore.js"></script>
       <script type="text/javascript" src="_static/doctools.js"></script>
       <script type="text/javascript" src="_static/translations.js"></script>
-      <script type="text/javascript" src="_static/searchtools.js"></script>
 
   
 
@@ -226,14 +274,7 @@
           SphinxRtdTheme.Navigation.enableSticky();
           
       });
-  </script>
-  <script type="text/javascript">
-    jQuery(function() { Search.loadIndex("searchindex.js"); });
-  </script>
-  
-  <script type="text/javascript" id="searchindexloader"></script>
-   
-
+  </script> 
 
 </body>
 </html>

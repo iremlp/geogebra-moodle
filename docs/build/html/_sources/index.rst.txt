@@ -84,3 +84,13 @@ Table des matières du site
    sciences-mecanique.rst
    sciences-energie.rst
 
+
+-----
+
+
+
+Index et moteur de recherche
+============================
+
+* :ref:`genindex`
+* :ref:`search`

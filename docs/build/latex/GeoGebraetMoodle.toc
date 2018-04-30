@@ -9,13 +9,18 @@
 \contentsline {subsubsection}{Le plugin GeoGebra pour Moodle}{3}{subsubsection*.5}
 \contentsline {paragraph}{Utilisation de base}{3}{paragraph*.6}
 \contentsline {paragraph}{Utilisation avanc\IeC {\'e}e}{3}{paragraph*.7}
-\contentsline {subsection}{\numberline {1.3.2}Pourcentages}{4}{subsection.1.3.2}
-\contentsline {subsubsection}{Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{4}{subsubsection*.8}
-\contentsline {subsubsection}{Caract\IeC {\'e}ristiques}{4}{subsubsection*.9}
-\contentsline {subsection}{\numberline {1.3.3}Fonctions}{5}{subsection.1.3.3}
-\contentsline {subsubsection}{Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{5}{subsubsection*.10}
-\contentsline {subsubsection}{Caract\IeC {\'e}ristiques}{5}{subsubsection*.11}
-\contentsline {subsection}{\numberline {1.3.4}Vecteurs}{5}{subsection.1.3.4}
-\contentsline {subsubsection}{Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{5}{subsubsection*.12}
-\contentsline {subsubsection}{Caract\IeC {\'e}ristiques}{6}{subsubsection*.13}
-\contentsline {subsection}{\numberline {1.3.5}Ressources en lignes}{6}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {1.3.2}Ressources en lignes}{4}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}\IeC {\`A} propos de cette documentation}{4}{subsection.1.3.3}
+\contentsline {subsubsection}{Environnement de travail}{4}{subsubsection*.8}
+\contentsline {subsection}{\numberline {1.3.4}M\IeC {\'e}diane}{5}{subsection.1.3.4}
+\contentsline {subsubsection}{Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{5}{subsubsection*.9}
+\contentsline {subsubsection}{Caract\IeC {\'e}ristiques}{5}{subsubsection*.10}
+\contentsline {subsection}{\numberline {1.3.5}Pourcentages}{6}{subsection.1.3.5}
+\contentsline {subsubsection}{Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{6}{subsubsection*.11}
+\contentsline {subsubsection}{Caract\IeC {\'e}ristiques}{6}{subsubsection*.12}
+\contentsline {subsection}{\numberline {1.3.6}Fonctions}{6}{subsection.1.3.6}
+\contentsline {subsubsection}{Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{6}{subsubsection*.13}
+\contentsline {subsubsection}{Caract\IeC {\'e}ristiques}{7}{subsubsection*.14}
+\contentsline {subsection}{\numberline {1.3.7}Vecteurs}{7}{subsection.1.3.7}
+\contentsline {subsubsection}{Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{7}{subsubsection*.15}
+\contentsline {subsubsection}{Caract\IeC {\'e}ristiques}{7}{subsubsection*.16}

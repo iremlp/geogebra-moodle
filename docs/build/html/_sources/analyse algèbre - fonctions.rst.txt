@@ -11,9 +11,9 @@ Fichiers à télécharger
 
    * - Fichiers
      - Description
-   * - `calcul-image-affine.ggb <_static/exerciseur_AA-calcul-image-affine%20-%20460x537.ggb>`_
+   * - `calcul-image-affine.ggb <_static/exerciseur_AA-calcul-image-affine.ggb>`_
      - calculer l'image à partir de l'expression algébrique d'une fonction affine
-   * - `calcul-image-polynôme.ggb <_static/exerciseur_AA-calcul-image-polynome%20-%20522x419.ggb>`_
+   * - `calcul-image-polynôme.ggb <_static/exerciseur_AA-calcul-image-polynome.ggb>`_
      - calculer l'image à partir de l'éxpression algébrique d'une fonction rationnelle
 
 

@@ -21,11 +21,11 @@ Fichiers à télécharger
 
    * - Fichier
      - Description 
-   * - `pourcentage1.ggb <_static/exerciseur_pourcentage1_550%C3%97700.ggb>`_ 
+   * - `pourcentage1.ggb <_static/exerciseur_pourcentage1.ggb>`_ 
      - pourcentage direct (calculer une quantité à partir du taux)
-   * - `pourcentage2.ggb <_static/exerciseur_pourcentage2_550%C3%97700.ggb>`_
+   * - `pourcentage2.ggb <_static/exerciseur_pourcentage2.ggb>`_
      - calculer un taux (à partir des quantités initiales et finales)
-   * - `pourcentage3.ggb <_static/exerciseur_pourcentage3_550%C3%97700.ggb>`_
+   * - `pourcentage3.ggb <_static/exerciseur_pourcentage3.ggb>`_
      - pourcentage indirect (calculer la quantité initiale à partir du taux)
 
 
@@ -33,18 +33,18 @@ Fichiers à télécharger
 .. list-table:: Augmentations, diminutions de pourcentages
    :widths: 1,2
 
-   * - `pourcentage4.ggb <_static/exerciseur_pourcentage4_550%C3%97700.ggb>`_
+   * - `pourcentage4.ggb <_static/exerciseur_pourcentage4.ggb>`_
      - calculer une quantité après une augmentation/réduction
-   * - `pourcentage5.ggb <_static/exerciseur_pourcentage5_550%C3%97700.ggb>`_
+   * - `pourcentage5.ggb <_static/exerciseur_pourcentage5.ggb>`_
      - calculer un taux d'augmentation/réduction
-   * - `pourcentage6.ggb <_static/exerciseur_pourcentage6_550%C3%97700.ggb>`_
+   * - `pourcentage6.ggb <_static/exerciseur_pourcentage6.ggb>`_
      - calculer la quantité initiale connaissant la quantité finale et le taux d'augmentation/réduction
 
 
 .. list-table:: Synthèse
    :widths: 1,2
 
-   * - `pourcentage7.ggb <_static/exerciseur_pourcentage7_550%C3%97700_totale.ggb>`_
+   * - `pourcentage7.ggb <_static/exerciseur_pourcentage7_totale.ggb>`_
      - la synthèse : un mélange de tous les cas précédents 
 
 

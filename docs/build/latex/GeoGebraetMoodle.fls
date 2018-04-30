@@ -245,12 +245,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT logo-irem-2013-blanc.jpg
-INPUT ./logo-irem-2013-blanc.jpg
-INPUT ./logo-irem-2013-blanc.jpg
-INPUT amu.png
-INPUT ./amu.png
-INPUT ./amu.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
@@ -294,6 +288,9 @@ INPUT ./fig-moodle2.png
 INPUT fig-moodle3.png
 INPUT ./fig-moodle3.png
 INPUT ./fig-moodle3.png
+INPUT fig-aPropos.png
+INPUT ./fig-aPropos.png
+INPUT ./fig-aPropos.png
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT fig-vecteur.png

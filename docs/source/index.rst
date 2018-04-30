@@ -57,6 +57,13 @@ Table des matières du site
 
 .. toctree::
    :maxdepth: 3
+   :caption: Probabilité / Statistiques
+
+   proba stat - mediane.rst
+
+
+.. toctree::
+   :maxdepth: 3
    :caption: Analyse et Algèbre
 
    analyse algèbre - pourcentages.rst
@@ -69,4 +76,11 @@ Table des matières du site
 
    geom-vecteur.rst
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Sciences
    
+   sciences-mecanique.rst
+   sciences-energie.rst
+

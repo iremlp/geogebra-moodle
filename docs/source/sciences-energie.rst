@@ -13,7 +13,7 @@ Série d'exercices sur les échanges énergétiques lors de changements de temp�
    :width: 30%
 
 .. image:: _static/fig-chgt02.png
-   :width: 30%
+   :width: 35%
 
 .. image:: _static/fig-chgt03.png
    :width: 30%

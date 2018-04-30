@@ -16,7 +16,7 @@ Contenu du site
 Vous trouverez sur ce site des fichiers **GeoGebra** utilisés sur la plateforme **Moodle**.
 La particularité de ces fichiers est qu'ils permettent d'évaluer l'élève automatiquement.
 Chaque fichier comporte un système de score que Moodle peut récupérer. Pour cela, il faut
-utiliser un plugin liant GeoGebra et Moodle !
+utiliser un plugin liant GeoGebra et Moodle
 
 
 Qui sommes-nous ?

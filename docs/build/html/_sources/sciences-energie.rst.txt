@@ -9,14 +9,14 @@ Série d'exercices sur les échanges énergétiques lors de changements de temp�
  #. synthèse
 
 
-.. image:: _static/fig-chgt01.png
-   :width: 30%
+.. list-table:: Captures d'écran des 3 fichiers
 
-.. image:: _static/fig-chgt02.png
-   :width: 30%
-
-.. image:: _static/fig-chgt03.png
-   :width: 30%
+   * - .. image:: _static/fig-chgt01.png
+          :width: 100%
+     - .. image:: _static/fig-chgt02.png
+          :width: 100%
+     - .. image:: _static/fig-chgt03.png
+          :width: 100%
 
 Fichiers à télécharger
 ======================

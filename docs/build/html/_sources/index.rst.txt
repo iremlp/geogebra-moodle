@@ -26,7 +26,7 @@ de l'`IREM de Marseille <https://irem.univ-amu.fr/fr>`_.
 
 Notre groupe, *Innovation, Expérimentation et Formation en Lycée Professionnel* (InEFLP)
 a une partie de son travail consacrée aux modalités de cours innovantes. Nous explorons
-actuellement la plateforme *Moodle*. 
+actuellement la plateforme *Moodle*.
 
 `Site du groupe InEFLP <https://irem.univ-amu.fr/fr/groupes-travail/groupe-travail-innovation-experimentation-formation-lp>`_.
 

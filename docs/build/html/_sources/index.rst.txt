@@ -75,12 +75,14 @@ Table des matières du site
    :caption: Géométrie
 
    geom-vecteur.rst
+   geom-vecteur3D.rst
+
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Sciences
-   
+
    sciences-mecanique.rst
    sciences-energie.rst
 

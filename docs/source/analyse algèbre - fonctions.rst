@@ -11,9 +11,9 @@ Fichiers à télécharger
 
    * - Fichiers
      - Description
-   * - `calcul-image-affine.ggb <_static/exerciseur_AA-calcul-image-affine.ggb>`_
+   * - :download:`calcul-image-affine.ggb <_static/exerciseur_AA-calcul-image-affine.ggb>`
      - calculer l'image à partir de l'expression algébrique d'une fonction affine
-   * - `calcul-image-polynôme.ggb <_static/exerciseur_AA-calcul-image-polynome.ggb>`_
+   * - :download:`calcul-image-polynôme.ggb <_static/exerciseur_AA-calcul-image-polynome.ggb>`
      - calculer l'image à partir de l'éxpression algébrique d'une fonction rationnelle
 
 
@@ -23,9 +23,9 @@ Fichiers à télécharger
 
    * - Fichiers
      - Description
-   * - `sens de variation fonction affine graphique.ggb <_static/exerciseur_sens%20de%20variation%20fonction%20affine_%20graphique.ggb>`_
+   * - :download:`sens de variation fonction affine graphique.ggb <_static/exerciseur_sens de variation fonction affine_ graphique.ggb>`
      - déterminer le sens de variation d'une fonction affine à partir de sa représentation graphique
-   * - `sens de variation fonction affine.ggb <_static/exerciseur_sens%20de%20variation%20fonction%20affine_.ggb>`_
+   * - :download:`sens de variation fonction affine.ggb <_static/exerciseur_sens de variation fonction affine_.ggb>`
      - déterminer le sens de variation d'une fonction affine à partir de l'expression algébrique
      
      

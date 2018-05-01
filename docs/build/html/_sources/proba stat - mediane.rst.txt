@@ -22,10 +22,10 @@ Fichiers à télécharger
    * - Fichiers
      - Description
      
-   * - `médiane impaire.ggb <_static/exerciseur_mediane_impaire.ggb>`_
+   * - :download:`médiane impaire.ggb <_static/exerciseur_mediane_impaire.ggb>`
      - déterminer la valeur médiane d'une série de 3, 5 ou 7 valeurs
           
-   * - `mediane_paire-impaire-10.ggb <_static/exerciseur_mediane_paire-impaire-10.ggb>`_
+   * - :download:`mediane_paire-impaire-10.ggb <_static/exerciseur_mediane_paire-impaire-10.ggb>`
      - déterminer la valeur médiane d'une série quelconque.
        **Attention** il y a 10 questions. 
 

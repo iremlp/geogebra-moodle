@@ -1,0 +1,9 @@
+******************
+Analyse et Algèbre
+******************
+
+.. toctree::
+   :maxdepth: 1
+
+   analyse algèbre - pourcentages.rst
+   analyse algèbre - fonctions.rst

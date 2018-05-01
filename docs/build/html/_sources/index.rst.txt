@@ -6,12 +6,9 @@
 ********************************************
 Bienvenus sur nos pages GeoGebra et Moodle !
 ********************************************
---------------------------------
-Des ressources Moodle / GeoGebra
---------------------------------
 
-Contenu du site
-===============
+
+**Contenu du site**
 
 Vous trouverez sur ce site des fichiers **GeoGebra** utilisés sur la plateforme **Moodle**.
 La particularité de ces fichiers est qu'ils permettent d'évaluer l'élève automatiquement.
@@ -19,8 +16,8 @@ Chaque fichier comporte un système de score que Moodle peut récupérer. Pour c
 utiliser un plugin liant GeoGebra et Moodle.
 
 
-Qui sommes-nous ?
-=================
+**Qui sommes-nous ?**
+
 Nous sommes des enseignants de maths/sciences regroupés au sein d'un groupe de recherche
 de l'`IREM de Marseille <https://irem.univ-amu.fr/fr>`_.
 
@@ -42,46 +39,71 @@ actuellement la plateforme *Moodle*.
       :target: https://irem.univ-amu.fr/fr
 
 
-Table des matières du site
-==========================
+----
 
 
+**Table des matières du document**
+
+
+---------------------
+Description du projet
+---------------------
+ 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly: 
    :caption: Description du projet
+   :hidden:
 
    projet-description.rst
-   projet-ressources.rst
+   projet-ressources.rst   
    projet-aPropos.rst
 
+----------------------------
+Probabilités et statistiques
+----------------------------
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Probabilité / Statistiques
+   :titlesonly: 
+   :caption: Probabilités / Statistiques
+   :hidden:
 
    proba stat - mediane.rst
 
+------------------
+Analyse et Algèbre
+------------------
 
 .. toctree::
-   :maxdepth: 3
+   :titlesonly: 
    :caption: Analyse et Algèbre
+   :hidden:
 
    analyse algèbre - pourcentages.rst
    analyse algèbre - fonctions.rst
 
 
+---------
+Géométrie
+---------
+
+
 .. toctree::
-   :maxdepth: 1
+   :titlesonly: 
    :caption: Géométrie
+   :hidden:
 
    geom-vecteur.rst
    geom-vecteur3D.rst
 
 
+--------
+Sciences
+--------
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly: 
    :caption: Sciences
+   :hidden:
 
    sciences-mecanique.rst
    sciences-energie.rst
@@ -89,10 +111,6 @@ Table des matières du site
 
 -----
 
-
-
-Index et moteur de recherche
-============================
 
 * :ref:`genindex`
 * :ref:`search`

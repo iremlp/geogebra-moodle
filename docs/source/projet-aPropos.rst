@@ -38,6 +38,9 @@ C'est *plutôt* simple [#n1]_ et fonctionnel.
 #. Configurer *Eclipse* pour que le rendu se fasse par la commande *build all (CTRL + B)*
 
 
+.. todo:: Ajouter l'interface de rédaction de Bruno
+
+
 
 ----
 

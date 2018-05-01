@@ -3,7 +3,7 @@ Mécanique
 *********
 
 Une série d'exercice sur le calcul du poids, de la masse ou de la constante
-gravitationnelle à partir de la relation :
+gravitationnelle à partir de la relation : 
 
 .. math:: 
 

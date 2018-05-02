@@ -1,6 +1,6 @@
-========
-Vecteurs
-========
+=====================
+Vecteurs dans le plan
+=====================
 Série d'exercices sur les vecteurs dans le plan.
 
  #. Calcul des coordonnées d'un vecteur plan à partir des coordonnées de 2 points.

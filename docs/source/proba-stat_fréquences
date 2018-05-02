@@ -15,7 +15,7 @@ Série d'exercices sur le calcul de fréquence et l'étendue des fréquences pou
 Fichiers à télécharger
 ======================
 
-.. list-table:: Médiane d'une série brute
+.. list-table:: Fréquences
    :widths: 30 70
    :header-rows: 1
 
@@ -23,20 +23,20 @@ Fichiers à télécharger
      - Description
      
    * - :download:`médiane impaire.ggb <_static/exerciseur_mediane_impaire.ggb>`
-     - déterminer la valeur médiane d'une série de 3, 5 ou 7 valeurs
+     - déterminer la fréquence de l'événement "côté face".
           
    * - :download:`mediane_paire-impaire-10.ggb <_static/exerciseur_mediane_paire-impaire-10.ggb>`
-     - déterminer la valeur médiane d'une série quelconque.
-       **Attention** il y a 10 questions. 
-
+     - déterminer l'étendue des fréquences.
+       
+   * - :download:`mediane_paire-impaire-10.ggb <_static/exerciseur_mediane_paire-impaire-10.ggb>`
+     - déterminer l'étendue des fréquences (lecture graphique).
+       
      
 Caractéristiques
 ================
 
 * exercices sur :
 
-  * 5 points (5 questions) pour le premier
-  * 10 points (10 questions) pour le second
-  
-* valeurs aléatoires (quantités, unités, questions, etc.)
-* notation automatique avec le plugin moodle : grâce à la variable *grade*
+  * 5 points (5 questions) pour le premier  
+  * valeurs aléatoires (quantités, unités, questions, etc.)
+  * notation automatique avec le plugin moodle : grâce à la variable *grade*

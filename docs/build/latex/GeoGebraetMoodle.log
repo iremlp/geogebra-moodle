@@ -805,11 +805,10 @@ LaTeX Info: Redefining \ref on input line 68.
 LaTeX Info: Redefining \pageref on input line 68.
 LaTeX Info: Redefining \nameref on input line 68.
 
-(./GeoGebraetMoodle.out) (./GeoGebraetMoodle.out)
+(./GeoGebraetMoodle.oe.out)
 \@outlinefile=\write5
 \openout5 = `GeoGebraetMoodle.out'.
 
-Package hyperref Info: Option `pageanchor' set `false' on input line 71.
 LaTeX Font Info:    Try loading font information for T1+phv on input line 71.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
@@ -823,11 +822,11 @@ LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 71.
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <17.28> not available
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 71.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <17.28> not available
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 71.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 71.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Try loading font information for U+msa on input line 71.
@@ -840,40 +839,36 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 71.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 71.
- [1
+(./GeoGebraetMoodle.toc
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
-] (./GeoGebraetMoodle.toc
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-)
-\tf@toc=\write6
-\openout6 = `GeoGebraetMoodle.toc'.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...rline {1.1}Contenu du site}{1}{section.1.1}
+                                                  
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.3 ...rline {1.1}Contenu du site}{1}{section.1.1}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
- [1
-
-] [2
-
-]
-<logo-irem-2013-blanc.jpg, id=122, 93.5046pt x 44.03764pt>
-File: logo-irem-2013-blanc.jpg Graphic file (type jpg)
-<use logo-irem-2013-blanc.jpg>
-Package pdftex.def Info: logo-irem-2013-blanc.jpg  used on input line 2.
-(pdftex.def)             Requested size: 112.92114pt x 53.18422pt.
-<amu.png, id=124, 1289.2968pt x 441.8106pt>
-File: amu.png Graphic file (type png)
-<use amu.png>
-Package pdftex.def Info: amu.png  used on input line 2.
-(pdftex.def)             Requested size: 112.92114pt x 38.68933pt.
-
-[1 <./logo-irem-2013-blanc.jpg> <./amu.png>] [2
-
-]
-Chapitre 1.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
+ 
+Here is how much of TeX's memory you used:
+ 13844 strings out of 494561
+ 195603 string characters out of 6176608
+ 284973 words of memory out of 5000000
+ 17243 multiletter control sequences out of 15000+600000
+ 22053 words of font info for 35 fonts, out of 8000000 for 9000
+ 15 hyphenation exceptions out of 8191
+ 37i,6n,45p,288b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
+nt shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 118.
 
 Underfull \hbox (badness 10000) in paragraph at lines 162--166

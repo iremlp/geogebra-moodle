@@ -74,9 +74,9 @@ Table des matières du site
    :maxdepth: 1
    :caption: Géométrie
 
+   geom-pythagore.rst
    geom-vecteur.rst
    geom-vecteur3D.rst
-
 
 
 .. toctree::

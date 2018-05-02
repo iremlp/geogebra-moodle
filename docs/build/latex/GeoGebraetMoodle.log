@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Debian) (preloaded format=pdflatex 2018.4.28)  29 APR 2018 22:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Debian) (preloaded format=pdflatex 2018.4.28)  2 MAY 2018 00:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -805,11 +805,10 @@ LaTeX Info: Redefining \ref on input line 68.
 LaTeX Info: Redefining \pageref on input line 68.
 LaTeX Info: Redefining \nameref on input line 68.
 
-(./GeoGebraetMoodle.out) (./GeoGebraetMoodle.out)
+(./GeoGebraetMoodle.oe.out)
 \@outlinefile=\write5
 \openout5 = `GeoGebraetMoodle.out'.
 
-Package hyperref Info: Option `pageanchor' set `false' on input line 71.
 LaTeX Font Info:    Try loading font information for T1+phv on input line 71.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
@@ -823,11 +822,11 @@ LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 71.
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <17.28> not available
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/it' tried instead on input line 71.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <17.28> not available
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 71.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 71.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Try loading font information for U+msa on input line 71.
@@ -840,98 +839,209 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 71.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 71.
- [1
+(./GeoGebraetMoodle.toc
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
-] (./GeoGebraetMoodle.toc
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-)
-\tf@toc=\write6
-\openout6 = `GeoGebraetMoodle.toc'.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...rline {1.1}Contenu du site}{1}{section.1.1}
+                                                  
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.3 ...rline {1.1}Contenu du site}{1}{section.1.1}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
- [1
+ 
+Here is how much of TeX's memory you used:
+ 13844 strings out of 494561
+ 195603 string characters out of 6176608
+ 284973 words of memory out of 5000000
+ 17243 multiletter control sequences out of 15000+600000
+ 22053 words of font info for 35 fonts, out of 8000000 for 9000
+ 15 hyphenation exceptions out of 8191
+ 37i,6n,45p,288b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
+nt shape `T1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 118.
 
-] [2
-
-]
-Chapitre 1.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 79.
-
-Package hyperref Warning: Suppressing empty link on input line 2.
-
-
-Package hyperref Warning: Suppressing empty link on input line 2.
-
-[1
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 164--168
+Underfull \hbox (badness 10000) in paragraph at lines 162--166
 [][][]\T1/ptm/m/n/8 .[][]Présentation de l'in-té-gra-tion de Moo-dle (et autres
 ) avec Atrium : [][]$https : / / www . atrium-[]paca . fr / web / assistance /
  []
 
-<fig-moodle.png, id=55, 226.8475pt x 214.8025pt>
+[3]
+<fig-moodle.png, id=158, 226.8475pt x 214.8025pt>
 File: fig-moodle.png Graphic file (type png)
 <use fig-moodle.png>
-Package pdftex.def Info: fig-moodle.png  used on input line 185.
+Package pdftex.def Info: fig-moodle.png  used on input line 183.
 (pdftex.def)             Requested size: 140.92793pt x 133.44493pt.
-[2 <./fig-moodle.png>]
-<fig-moodle2.png, id=71, 319.1925pt x 494.84875pt>
+ [4 <./fig-moodle.png>]
+<fig-moodle2.png, id=168, 319.1925pt x 494.84875pt>
 File: fig-moodle2.png Graphic file (type png)
 <use fig-moodle2.png>
-Package pdftex.def Info: fig-moodle2.png  used on input line 246.
+Package pdftex.def Info: fig-moodle2.png  used on input line 244.
 (pdftex.def)             Requested size: 140.92793pt x 218.48164pt.
-<fig-moodle3.png, id=72, 690.58pt x 425.59pt>
+<fig-moodle3.png, id=169, 690.58pt x 425.59pt>
 File: fig-moodle3.png Graphic file (type png)
 <use fig-moodle3.png>
-Package pdftex.def Info: fig-moodle3.png  used on input line 248.
+Package pdftex.def Info: fig-moodle3.png  used on input line 246.
 (pdftex.def)             Requested size: 281.85587pt x 173.70076pt.
- [3 <./fig-moodle2.png>]
-<fig-aPropos.png, id=82, 1924.18875pt x 1024.82875pt>
+ [5 <./fig-moodle2.png> <./fig-moodle3.png>] [6
+
+]
+Chapitre 2.
+[7] [8
+
+]
+Chapitre 3.
+<fig-aPropos.png, id=187, 1924.18875pt x 1024.82875pt>
 File: fig-aPropos.png Graphic file (type png)
 <use fig-aPropos.png>
-Package pdftex.def Info: fig-aPropos.png  used on input line 297.
+Package pdftex.def Info: fig-aPropos.png  used on input line 295.
 (pdftex.def)             Requested size: 305.33789pt x 162.61548pt.
- [4 <./fig-moodle3.png>] [5 <./fig-aPropos.png>] [6]
-<fig-vecteur.png, id=139, 1050.92625pt x 576.1525pt>
+[9 <./fig-aPropos.png>] [10]
+Chapitre 4.
+<fig-mediane.png, id=205, 558.085pt x 479.7925pt>
+File: fig-mediane.png Graphic file (type png)
+<use fig-mediane.png>
+Package pdftex.def Info: fig-mediane.png  used on input line 338.
+(pdftex.def)             Requested size: 305.33789pt x 262.51031pt.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 357.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Overfull \hbox (21.59349pt too wide) in paragraph at lines 362--363
+[]|\T1/pcr/m/n/10 mediane_paire-impaire-10.
+ []
+
+[11
+
+ <./fig-mediane.png>] [12]
+Chapitre 5.
+[13
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+[]|\T1/pcr/m/n/10 calcul-image-affine.
+ []
+
+
+Overfull \hbox (3.59349pt too wide) in paragraph at lines 530--531
+[]|\T1/pcr/m/n/10 calcul-image-polynôme.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--554
+[]|\T1/pcr/m/n/10 sens de variation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--554
+\T1/pcr/m/n/10 fonction affine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+[]|\T1/pcr/m/n/10 sens de variation
+ []
+
+[14]
+Chapitre 6.
+<fig-vecteur.png, id=235, 1050.92625pt x 576.1525pt>
 File: fig-vecteur.png Graphic file (type png)
 <use fig-vecteur.png>
-Package pdftex.def Info: fig-vecteur.png  used on input line 578.
+Package pdftex.def Info: fig-vecteur.png  used on input line 587.
 (pdftex.def)             Requested size: 305.33789pt x 167.39642pt.
- (./GeoGebraetMoodle.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 632.
- [7 <./fig-vecteur.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 632.
+[15
 
-(./GeoGebraetMoodle.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 632.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 632.
+ <./fig-vecteur.png>]
+<fig-vecteur3D.png, id=244, 873.2625pt x 533.995pt>
+File: fig-vecteur3D.png Graphic file (type png)
+<use fig-vecteur3D.png>
+Package pdftex.def Info: fig-vecteur3D.png  used on input line 640.
+(pdftex.def)             Requested size: 305.33789pt x 186.71364pt.
+ [16 <./fig-vecteur3D.png>]
+Chapitre 7.
+<fig-p=mg.png, id=253, 536.0025pt x 410.53375pt>
+File: fig-p=mg.png Graphic file (type png)
+<use fig-p=mg.png>
+Package pdftex.def Info: fig-p=mg.png  used on input line 706.
+(pdftex.def)             Requested size: 305.33789pt x 233.86258pt.
+[17
+
+ <./fig-p=mg.png>]
+<fig-chgt01.png, id=261, 577.15625pt x 587.19376pt>
+File: fig-chgt01.png Graphic file (type png)
+<use fig-chgt01.png>
+Package pdftex.def Info: fig-chgt01.png  used on input line 786.
+(pdftex.def)             Requested size: 469.75502pt x 477.94495pt.
+<fig-chgt02.png, id=262, 549.05125pt x 525.965pt>
+File: fig-chgt02.png Graphic file (type png)
+<use fig-chgt02.png>
+Package pdftex.def Info: fig-chgt02.png  used on input line 786.
+(pdftex.def)             Requested size: 469.75502pt x 450.01773pt.
+<fig-chgt03.png, id=263, 637.38126pt x 584.1825pt>
+File: fig-chgt03.png Graphic file (type png)
+<use fig-chgt03.png>
+Package pdftex.def Info: fig-chgt03.png  used on input line 786.
+(pdftex.def)             Requested size: 469.75502pt x 430.55006pt.
+File: fig-chgt01.png Graphic file (type png)
+<use fig-chgt01.png>
+Package pdftex.def Info: fig-chgt01.png  used on input line 786.
+(pdftex.def)             Requested size: 144.13275pt x 146.6368pt.
+File: fig-chgt02.png Graphic file (type png)
+<use fig-chgt02.png>
+Package pdftex.def Info: fig-chgt02.png  used on input line 786.
+(pdftex.def)             Requested size: 144.01013pt x 137.9515pt.
+File: fig-chgt03.png Graphic file (type png)
+<use fig-chgt03.png>
+Package pdftex.def Info: fig-chgt03.png  used on input line 786.
+(pdftex.def)             Requested size: 144.01013pt x 131.98804pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 807--808
+[]|\T1/pcr/m/n/10 capacité thermique.
+ []
+
+[18 <./fig-chgt01.png> <./fig-chgt02.png> <./fig-chgt03.png>]
+(./GeoGebraetMoodle.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 858.
+ [19]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 858.
+ (./GeoGebraetMoodle.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 858.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 858.
 Package rerunfilecheck Info: File `GeoGebraetMoodle.out' has not changed.
-(rerunfilecheck)             Checksum: 9500983E3DA280F172E0A27FF159498B;215.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 632.
+(rerunfilecheck)             Checksum: F515C4F4E1E3D6A4DA4E53F667BD2D5B;2397.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 858.
  ) 
 Here is how much of TeX's memory you used:
- 14042 strings out of 494561
- 197774 string characters out of 6176608
- 292835 words of memory out of 5000000
- 17322 multiletter control sequences out of 15000+600000
- 56846 words of font info for 78 fonts, out of 8000000 for 9000
+ 14179 strings out of 494561
+ 199809 string characters out of 6176608
+ 291445 words of memory out of 5000000
+ 17415 multiletter control sequences out of 15000+600000
+ 57467 words of font info for 80 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 37i,12n,45p,288b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,14n,45p,293b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr
-8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on GeoGebraetMoodle.pdf (11 pages, 419203 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
+vetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on GeoGebraetMoodle.pdf (23 pages, 849779 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
- 59 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 335 PDF objects out of 1000 (max. 8388607)
+ 278 compressed objects within 3 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 230 words of extra memory for PDF output out of 10000 (max. 10000000)
 

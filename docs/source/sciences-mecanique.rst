@@ -3,7 +3,7 @@ Mécanique
 *********
 
 Une série d'exercice sur le calcul du poids, de la masse ou de la constante
-gravitationnelle à partir de la relation :
+gravitationnelle à partir de la relation : 
 
 .. math:: 
 
@@ -23,10 +23,10 @@ Fichiers à télécharger
    * - Fichiers
      - Description
      
-   * - `p=mg.ggb <_static/exerciseur_p=mg.ggb>`_
+   * - :download:`p=mg.ggb <_static/exerciseur_p=mg.ggb>`
      - déterminer P, m ou g (niveau 1)
           
-   * - `p=mg niveau 2.ggb <_static/exerciseur_p=mg-niv2.ggb>`_
+   * - :download:`p=mg niveau 2.ggb <_static/exerciseur_p=mg-niv2.ggb>`
      - déterminer P, m ou g avec conversion simple d'unité (niveau 2)
        **Attention** il y a 10 questions. 
 

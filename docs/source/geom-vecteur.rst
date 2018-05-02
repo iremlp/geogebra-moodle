@@ -1,7 +1,10 @@
-========
-Vecteurs 
-========
+=====================
+Vecteurs dans le plan
+=====================
+Série d'exercices sur les vecteurs dans le plan.
 
+ #. Calcul des coordonnées d'un vecteur plan à partir des coordonnées de 2 points.
+ #. Calcul de la norme d'un vecteur plan à partir des coordonnées de celui-ci.
 
 .. image:: _static/fig-vecteur.png
    :width: 65%
@@ -17,9 +20,9 @@ Fichiers à télécharger
 
    * - Fichier
      - Description
-   * - `coordonnées vecteur plan.ggb <_static/exerciseur_coordonnées%20vecteur%20plan.ggb>`_
+   * - :download:`coordonnées vecteur plan.ggb <_static/exerciseur_coordonnées vecteur plan.ggb>`
      - déterminer les coordonnées d'un vecteur plan
-   * - `norme vecteur plan.ggb <_static/exerciseur_norme%20vecteur%20plan.ggb>`_
+   * - :download:`norme vecteur plan.ggb <_static/exerciseur_norme vecteur plan.ggb>`
      - calculer la norme d'un vecteur dans le plan (à partir des coordonnées)
 
 

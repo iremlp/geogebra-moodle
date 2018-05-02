@@ -28,14 +28,14 @@ Fichiers à télécharger
    * - Fichiers
      - Description
      
-   * - `capacité thermique.ggb <_static/exerciseur_chgt-etat_capaciteThermique.ggb>`_
+   * - :download:`capacité thermique.ggb <_static/exerciseur_chgt-etat_capaciteThermique.ggb>`
      - utiliser la capacité thermique pour déterminer la quantité d'énergie échangée
           
-   * - `chaleur latente.ggb <_static/exerciseur_chgt-etat_chaleurLatente.ggb>`_
+   * - :download:`chaleur latente.ggb <_static/exerciseur_chgt-etat_chaleurLatente.ggb>`
      - utiliser la chaleur latente et le changement d'état à venir
        pour déterminer la quantité d'énergie échangée
           
-   * - `synthèse.ggb <_static/exerciseur_chgt-etat_thermiqueTotale.ggb>`_
+   * - :download:`synthèse.ggb <_static/exerciseur_chgt-etat_thermiqueTotale.ggb>`
      - **synthèse** : utiliser changement d'été, chaleur latente et capacité thermique
        pour déterminer la quantité d'énergie échangée
         

@@ -132,7 +132,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'GeoGebraetMoodle.tex', u'GeoGebra et Moodle Documentation',
+    (master_doc, 'GeoGebraetMoodle.tex', u'GeoGebra et Moodle IREM Marseille',
      u'Bruno Bourgine, Sylvain Ferrero, Pascal Padilla', 'manual'),
 ]
 
@@ -142,7 +142,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'geogebraetmoodle', u'GeoGebra et Moodle Documentation',
+    (master_doc, 'geogebraetmoodle', u'GeoGebra et Moodle IREM Marseille',
      [author], 1)
 ]
 
@@ -153,7 +153,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'GeoGebraetMoodle', u'GeoGebra et Moodle Documentation',
+    (master_doc, 'GeoGebraetMoodle', u'GeoGebra et Moodle IREM Marseille',
      author, 'GeoGebraetMoodle', 'One line description of project.',
      'Miscellaneous'),
 ]

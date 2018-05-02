@@ -1,12 +1,12 @@
-*******
+==========
 Fréquences
-*******
+==========
+Série d'exercices sur le calcul de fréquence et l'étendue des fréquences pour une série d'échantillons.
 
-Voici deux exercices qui permettent de déterminer la médiane d'une série
-de données brutes. 
-Le premier exercice donné ne comporte que des séries dont l'effectif total
-est impair. Le second exercice propose aléatoirement des effectifs pairs
-ou impairs. 
+ #. Calcul de la fréquence d'un événement pour un échantillon de taille donnée (Pile ou Face).
+ #. Calcul de l'étendue des fréquences d'une série d'échantillon.
+ #. Calcul de l'étendue des fréquences d'une série d'échantillon (lecture graphique).
+
 
 .. image:: _static/fig-mediane.png
    :width: 65%

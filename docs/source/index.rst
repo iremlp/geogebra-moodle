@@ -68,6 +68,7 @@ Probabilités et statistiques
    :hidden:
 
    proba stat - mediane.rst
+   proba stat - tirage aléa.rst
 
 ------------------
 Analyse et Algèbre

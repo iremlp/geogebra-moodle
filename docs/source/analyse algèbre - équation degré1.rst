@@ -2,8 +2,8 @@
 Équation du premier degré
 *****************************
 
-Exercice sur la résolution d'équations du premier degré à une inconnue.
-Alatoirement sont proposées des équations de type ax+b=0 ou ax+b=cx+d.
+Exercice sur la résolution d'équations du premier degré à une inconnue. 
+Aléatoirement sont proposées des équations de type ax+b=0 ou ax+b=cx+d.
 
 .. image:: _static/fig-equa1.png
    :width: 65%

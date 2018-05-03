@@ -40,6 +40,8 @@ C'est *plutôt* simple [#n1]_ et fonctionnel.
 
 .. todo:: Ajouter l'interface de rédaction de Bruno
 
+
+
 ----
 
 

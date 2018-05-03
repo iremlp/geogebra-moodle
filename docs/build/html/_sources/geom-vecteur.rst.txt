@@ -1,7 +1,10 @@
-========
-Vecteurs
-========
+=====================
+Vecteurs dans le plan
+=====================
+Série d'exercices sur les vecteurs dans le plan.
 
+ #. Calcul des coordonnées d'un vecteur plan à partir des coordonnées de 2 points.
+ #. Calcul de la norme d'un vecteur plan à partir des coordonnées de celui-ci.
 
 .. image:: _static/fig-vecteur.png
    :width: 65%

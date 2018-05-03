@@ -48,14 +48,14 @@ actuellement la plateforme *Moodle*.
 ---------------------
 Description du projet
 ---------------------
- 
+
 .. toctree::
-   :titlesonly: 
+   :titlesonly:
    :caption: Description du projet
    :hidden:
 
    projet-description.rst
-   projet-ressources.rst   
+   projet-ressources.rst
    projet-aPropos.rst
 
 ----------------------------
@@ -63,7 +63,7 @@ Probabilités et statistiques
 ----------------------------
 
 .. toctree::
-   :titlesonly: 
+   :titlesonly:
    :caption: Probabilités / Statistiques
    :hidden:
 
@@ -74,7 +74,7 @@ Analyse et Algèbre
 ------------------
 
 .. toctree::
-   :titlesonly: 
+   :titlesonly:
    :caption: Analyse et Algèbre
    :hidden:
 
@@ -88,20 +88,17 @@ Géométrie
 
 
 .. toctree::
-   :titlesonly: 
+   :titlesonly:
    :caption: Géométrie
    :hidden:
 
+   geom-pythagore.rst
    geom-vecteur.rst
    geom-vecteur3D.rst
 
 
---------
-Sciences
---------
-
 .. toctree::
-   :titlesonly: 
+   :titlesonly:
    :caption: Sciences
    :hidden:
 

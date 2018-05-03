@@ -2,6 +2,7 @@
 Tirages aléatoires
 ********************
 
+Exercice de calcul de probabilité à partir d'un cas simple de tirage de boule dans une urne.
 
 
 .. image:: _static/fig-proba-tirage.png

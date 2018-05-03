@@ -2,6 +2,7 @@
 Vecteurs dans l'espace
 ======================
 
+Série d'exercices sur les vecteurs dans l'espace : calcul de coordonnées et de normes.
 
 .. image:: _static/fig-vecteur3D.png
    :width: 65%
@@ -23,7 +24,7 @@ Fichiers à télécharger
      - calculer la norme d'un vecteur dans le plan (à partir de ses coordonnées)
    * - :download:`norme2 vecteur espace.ggb <_static/exerciseur_vecteur3D_norme2.ggb>`
      - calculer la norme d'un vecteur dans le plan (à partir des coordonnées de ses extrémités)
- 
+
 
 
 Caractéristiques

@@ -81,6 +81,7 @@ Analyse et Algèbre
 
    analyse algèbre - pourcentages.rst
    analyse algèbre - fonctions.rst
+   analyse algèbre - équation degré1.rst
 
 
 ---------

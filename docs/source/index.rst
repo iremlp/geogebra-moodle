@@ -95,6 +95,7 @@ Géométrie
    :hidden:
 
    geom-pythagore.rst
+   geom-thales.rst
    geom-vecteur.rst
    geom-vecteur3D.rst
 

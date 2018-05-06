@@ -79,7 +79,8 @@ Analyse et Algèbre
    :caption: Analyse et Algèbre
    :hidden:
 
-   analyse algèbre - pourcentages.rst
+   analyse algèbre - proportionnalité.rst
+   analyse algèbre - équation degré1.rst
    analyse algèbre - fonctions.rst
    analyse algèbre - équation degré1.rst
 

@@ -2,7 +2,7 @@
 GeoGebra et Moodle ?
 ====================
 
-.. 
+..
    Ceci est un commentaire :
    Pour retrouver toutes les directives ou les possibilités du reStructuredText :
    http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt
@@ -33,16 +33,15 @@ Nous utilisons *GeoGebra* pour créer des exerciseurs. Généralement, nos activ
 #. à la fin, obtenir un score sur son activité
 
 
-.. todo::  
 
-   Insérer une gif animée d'un exerciseur GGB
-
-
+.. image:: _static/exerciseur-ggb.gif
+      :width: 50%
+      :align: center
 
 Moodle
 ======
 
-   
+
 Moodle [#fmoodle]_ est une application en ligne permettant de faire de la formation à
 distance. De nombreux MOOC actuels l'utilisent. Cet outil est disponible dans de
 nombreuses académie. Par exemple sur les académies de Nice et d'Aix-Marseille, Moodle
@@ -53,11 +52,11 @@ Nous utilisons Moodle pour mettre les élèves en activités à l'aide d'**éval
 formatives**. En effet, la notation choisie permet à l'éléve de s'entraîner, de se
 former et d'être en réussite.
 
-.. tip:: 
+.. tip::
 
 
    Dans Moodle, nous utilisons la notation suivante :
-    
+
    * nombre maximum de tentatives : **illimité**
    * méthode d'évaluation : **Tentative la plus haute**
 
@@ -69,10 +68,10 @@ obligé d'aller à son terme si c'est une activité répétitive. L'élève appr
 erreurs car un corrigé l'accompagne à chaque tentative. Lorsqu'il le désire, l'élève
 recommence l'activité et tente alors d'avoir un score maximal.
 
-Cette façon d'évaluer est pour nous très pertinente. 
+Cette façon d'évaluer est pour nous très pertinente.
 L'élève est en activité, il est motivé car il sait qu'il peut réussir.
 Il gagne en autonomie car, grâce au corrigé, il cherche à comprendre et à ne pas
-reproduire ses erreurs. 
+reproduire ses erreurs.
 En effet, chaque tentative est différente de la précédente car les fichiers sont
 conçus à partir de **valeurs aléatoires**.
 
@@ -85,15 +84,15 @@ Ce plugin offre un nouveau type d'activité dans Moodle : *GeoGebra*.
 Utilisation de base
 -------------------
 
-De base, il permet à l'enseignant de diffuser un fichier GeGebra (à envoyer dans 
+De base, il permet à l'enseignant de diffuser un fichier GeGebra (à envoyer dans
 l'onglet *Contenu*).
 L'élève entre alors dans l'activité et peut :
 
-* modifier le fichier 
+* modifier le fichier
 * sauvegarder ses modifications pour y revenir plus tard
 * envoyer sa production à l'enseignant.
 
-L'enseigant pourra alors consulter les productions de chaque élève (un peu long car 
+L'enseigant pourra alors consulter les productions de chaque élève (un peu long car
 à chaque fois le fichier doit s'ouvrir), ajouter commentaire et/ou note.
 
 Utilisation avancée

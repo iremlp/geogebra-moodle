@@ -2,6 +2,8 @@
 Pythagore
 =========
 
+Calculs de longueurs dans le triangle rectangle avec le théorème de Pythagore, le calcul
+attendu concerne aléatoirement l'hypothénuse ou un côté de l'angle droit.
 
 .. image:: _static/fig-pythagore_longueurs.png
    :width: 65%

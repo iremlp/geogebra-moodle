@@ -1,35 +1,54 @@
 \babel@toc {french}{}
-\contentsline {chapter}{\numberline {1}GeoGebra et Moodle ?}{3}{chapter.1}
-\contentsline {section}{\numberline {1.1}GeoGebra}{3}{section.1.1}
-\contentsline {section}{\numberline {1.2}Moodle}{3}{section.1.2}
-\contentsline {section}{\numberline {1.3}Le plugin GeoGebra pour Moodle}{4}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Utilisation de base}{4}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Utilisation avanc\IeC {\'e}e}{4}{subsection.1.3.2}
-\contentsline {chapter}{\numberline {2}Ressources en lignes}{7}{chapter.2}
-\contentsline {chapter}{\numberline {3}\IeC {\`A} propos de cette documentation}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}Environnement de travail}{9}{section.3.1}
-\contentsline {chapter}{\numberline {4}Probabilit\IeC {\'e}s et statistiques}{11}{chapter.4}
-\contentsline {section}{\numberline {4.1}M\IeC {\'e}diane}{11}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{12}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Caract\IeC {\'e}ristiques}{12}{subsection.4.1.2}
-\contentsline {chapter}{\numberline {5}Analyse et Alg\IeC {\`e}bre}{13}{chapter.5}
-\contentsline {section}{\numberline {5.1}Pourcentages}{13}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{13}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Caract\IeC {\'e}ristiques}{14}{subsection.5.1.2}
-\contentsline {section}{\numberline {5.2}Fonctions}{14}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{14}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Caract\IeC {\'e}ristiques}{14}{subsection.5.2.2}
-\contentsline {chapter}{\numberline {6}G\IeC {\'e}om\IeC {\'e}trie}{15}{chapter.6}
-\contentsline {section}{\numberline {6.1}Vecteurs}{15}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{15}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Caract\IeC {\'e}ristiques}{15}{subsection.6.1.2}
-\contentsline {section}{\numberline {6.2}Vecteurs dans l\IeC {\textquoteright }espace}{16}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{16}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Caract\IeC {\'e}ristiques}{16}{subsection.6.2.2}
-\contentsline {chapter}{\numberline {7}Sciences}{17}{chapter.7}
-\contentsline {section}{\numberline {7.1}M\IeC {\'e}canique}{17}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{18}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}Caract\IeC {\'e}ristiques}{18}{subsection.7.1.2}
-\contentsline {section}{\numberline {7.2}\IeC {\'E}nerg\IeC {\'e}tique}{18}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{18}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Caract\IeC {\'e}ristiques}{19}{subsection.7.2.2}
+\contentsline {chapter}{\numberline {1}Description du projet}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}GeoGebra et Moodle ?}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}GeoGebra}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Moodle}{4}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Le plugin GeoGebra pour Moodle}{5}{subsection.1.1.3}
+\contentsline {subsubsection}{Utilisation de base}{5}{subsubsection*.3}
+\contentsline {subsubsection}{Utilisation avanc\IeC {\'e}e}{5}{subsubsection*.4}
+\contentsline {section}{\numberline {1.2}Ressources en lignes}{6}{section.1.2}
+\contentsline {section}{\numberline {1.3}\IeC {\`A} propos de cette documentation}{6}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Environnement de travail}{6}{subsection.1.3.1}
+\contentsline {chapter}{\numberline {2}Probabilit\IeC {\'e}s et statistiques}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}M\IeC {\'e}diane}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{10}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Caract\IeC {\'e}ristiques}{10}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Fr\IeC {\'e}quences}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{11}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Caract\IeC {\'e}ristiques}{11}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Tirages al\IeC {\'e}atoires}{11}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Caract\IeC {\'e}ristiques}{12}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}Analyse et Alg\IeC {\`e}bre}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Proportionnalit\IeC {\'e}}{13}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{14}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Caract\IeC {\'e}ristiques}{14}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Pourcentages}{14}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{14}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Caract\IeC {\'e}ristiques}{14}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}\IeC {\'E}quation du premier degr\IeC {\'e}}{15}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{15}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Caract\IeC {\'e}ristiques}{15}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Fonctions}{16}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{16}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Caract\IeC {\'e}ristiques}{16}{subsection.3.4.2}
+\contentsline {chapter}{\numberline {4}G\IeC {\'e}om\IeC {\'e}trie}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Pythagore}{17}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{17}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Caract\IeC {\'e}ristiques}{18}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Thal\IeC {\`e}s}{18}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{18}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Caract\IeC {\'e}ristiques}{18}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Vecteurs}{18}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Vecteurs dans le plan}{19}{subsection.4.3.1}
+\contentsline {subsubsection}{Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{19}{subsubsection*.5}
+\contentsline {subsection}{\numberline {4.3.2}Vecteurs dans l\IeC {\textquoteright }espace}{19}{subsection.4.3.2}
+\contentsline {subsubsection}{Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{20}{subsubsection*.6}
+\contentsline {subsection}{\numberline {4.3.3}Caract\IeC {\'e}ristiques}{20}{subsection.4.3.3}
+\contentsline {chapter}{\numberline {5}Sciences}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}M\IeC {\'e}canique}{21}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{22}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Caract\IeC {\'e}ristiques}{22}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}\IeC {\'E}nerg\IeC {\'e}tique}{22}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Fichiers \IeC {\`a} t\IeC {\'e}l\IeC {\'e}charger}{22}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Caract\IeC {\'e}ristiques}{23}{subsection.5.2.2}

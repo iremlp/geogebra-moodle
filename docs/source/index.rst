@@ -68,6 +68,7 @@ Probabilités et statistiques
    :hidden:
 
    proba stat - mediane.rst
+   proba-stat_fréquences.rst
    proba stat - tirage aléa.rst
 
 ------------------
@@ -79,11 +80,10 @@ Analyse et Algèbre
    :caption: Analyse et Algèbre
    :hidden:
 
-   analyse algèbre - pourcentages.rst
    analyse algèbre - proportionnalité.rst
-   analyse algèbre - équation degré1.rst
+   analyse algèbre - pourcentages.rst
+   analyse algèbre - équation degré1.rst   
    analyse algèbre - fonctions.rst
-   analyse algèbre - équation degré1.rst
 
 
 ---------
@@ -92,14 +92,17 @@ Géométrie
 
 
 .. toctree::
-   :titlesonly:
    :caption: Géométrie
    :hidden:
 
    geom-pythagore.rst
    geom-thales.rst
    geom-vecteur.rst
-   geom-vecteur3D.rst
+
+
+--------
+Sciences
+--------
 
 
 .. toctree::

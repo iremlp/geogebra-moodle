@@ -1,11 +1,17 @@
-********************
+******************
 Tirages aléatoires
-********************
+******************
 
 Exercice de calcul de probabilité à partir d'un cas simple de tirage de boule dans une urne.
 
-
-.. image:: _static/fig-proba-tirage.png
+.. commentaire
+   
+   pour mettre une gif animée, mettre le fichier au format png et gif dans
+   le même dossier. Le rendu html utilisera gif en priorité et le rendu
+   latex utilisera le format png
+   
+   
+.. image:: _static/fig-proba-tirage.*
    :width: 65%
    :align: center
 

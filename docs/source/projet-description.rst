@@ -33,10 +33,17 @@ Nous utilisons *GeoGebra* pour créer des exerciseurs. Généralement, nos activ
 #. à la fin, obtenir un score sur son activité
 
 
+.. commentaire - comment ajouter une GIF animée en html mais pas en pdf ??
+   
+   pour mettre une gif animée, mettre le fichier au format png et gif dans
+   le même dossier. Le rendu html utilisera gif en priorité et le rendu
+   latex utilisera le format png
 
-.. image:: _static/exerciseur-ggb.gif
+
+.. image:: _static/fig-proba-tirage.*
       :width: 50%
       :align: center
+
 
 Moodle
 ======

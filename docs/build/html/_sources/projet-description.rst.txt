@@ -34,9 +34,10 @@ Nous utilisons *GeoGebra* pour créer des exerciseurs. Généralement, nos activ
 
 
 
-.. image:: _static/exerciseur-ggb.gif
+.. image:: _static/fig-proba-tirage.*
       :width: 50%
       :align: center
+
 
 Moodle
 ======

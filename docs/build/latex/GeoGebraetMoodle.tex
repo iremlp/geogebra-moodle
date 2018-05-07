@@ -58,7 +58,7 @@
 
 
 \title{GeoGebra et Moodle IREM Marseille}
-\date{mai 02, 2018}
+\date{mai 07, 2018}
 \release{}
 \author{Bruno Bourgine, Sylvain Ferrero, Pascal Padilla}
 \newcommand{\sphinxlogo}{\vbox{}}
@@ -94,11 +94,14 @@ actuellement la plateforme \sphinxstyleemphasis{Moodle}.
 \bigskip\hrule\bigskip
 
 
-\sphinxstylestrong{Table des matières du site}
+\sphinxstylestrong{Table des matières du document}
 
 
-\chapter{GeoGebra et Moodle ?}
-\label{\detokenize{projet-description::doc}}\label{\detokenize{projet-description:bienvenus-sur-nos-pages-geogebra-et-moodle}}\label{\detokenize{projet-description:geogebra-et-moodle}}
+\chapter{Description du projet}
+\label{\detokenize{index:description-du-projet}}\label{\detokenize{index:bienvenus-sur-nos-pages-geogebra-et-moodle}}
+
+\section{GeoGebra et Moodle ?}
+\label{\detokenize{projet-description::doc}}\label{\detokenize{projet-description:geogebra-et-moodle}}
 Il existe un plugin pour \sphinxstyleemphasis{Moodle} %
 \begin{footnote}[1]\sphinxAtStartFootnote
 Voir le site officiel du plugin : \sphinxurl{https://moodle.org/plugins/mod\_geogebra}
@@ -115,7 +118,7 @@ d’évaluer manuellement ou \sphinxstylestrong{automatiquement} l’activité.
 \end{itemize}
 
 
-\section{GeoGebra}
+\subsection{GeoGebra}
 \label{\detokenize{projet-description:geogebra}}
 GeoGebra %
 \begin{footnote}[2]\sphinxAtStartFootnote
@@ -144,12 +147,10 @@ recommencer un certain nombre de fois les points 1 à 3
 
 \end{enumerate}
 
-\begin{sphinxadmonition}{note}{\label{projet-description:index-0}À faire:}
-Insérer une gif animée d’un exerciseur GGB
-\end{sphinxadmonition}
+\noindent{\hspace*{\fill}\sphinxincludegraphics[width=0.500\linewidth]{{fig-proba-tirage}.png}\hspace*{\fill}}
 
 
-\section{Moodle}
+\subsection{Moodle}
 \label{\detokenize{projet-description:moodle}}
 Moodle %
 \begin{footnote}[3]\sphinxAtStartFootnote
@@ -196,12 +197,12 @@ En effet, chaque tentative est différente de la précédente car les fichiers s
 conçus à partir de \sphinxstylestrong{valeurs aléatoires}.
 
 
-\section{Le plugin GeoGebra pour Moodle}
+\subsection{Le plugin GeoGebra pour Moodle}
 \label{\detokenize{projet-description:le-plugin-geogebra-pour-moodle}}
 Ce plugin offre un nouveau type d’activité dans Moodle : \sphinxstyleemphasis{GeoGebra}.
 
 
-\subsection{Utilisation de base}
+\subsubsection{Utilisation de base}
 \label{\detokenize{projet-description:utilisation-de-base}}
 De base, il permet à l’enseignant de diffuser un fichier GeGebra (à envoyer dans
 l’onglet \sphinxstyleemphasis{Contenu}).
@@ -222,7 +223,7 @@ L’enseigant pourra alors consulter les productions de chaque élève (un peu l
 à chaque fois le fichier doit s’ouvrir), ajouter commentaire et/ou note.
 
 
-\subsection{Utilisation avancée}
+\subsubsection{Utilisation avancée}
 \label{\detokenize{projet-description:utilisation-avancee}}
 Une utilisation avancée du plugin permet la \sphinxstylestrong{notation automatique}.
 
@@ -251,7 +252,7 @@ dans GeoGebra
 
 
 
-\chapter{Ressources en lignes}
+\section{Ressources en lignes}
 \label{\detokenize{projet-ressources:ressources-en-lignes}}\label{\detokenize{projet-ressources::doc}}
 Nous remercions chaleureusement Joël Gauvain, fondateur du site \sphinxstylestrong{Mathématiques à Valin}, sans qui nous n’aurions pas sû utiliser cet outil formidable : GeoGebra + Moodle !
 
@@ -260,7 +261,7 @@ Voici un lien vers ses explications et ses ressources : énorme !
 \sphinxhref{http://lycee-valin.fr/maths/exercices\_en\_ligne/moodle.html}{Mathématiques à Valin, Moodle et GeoGebra}
 
 
-\chapter{À propos de cette documentation}
+\section{À propos de cette documentation}
 \label{\detokenize{projet-aPropos:a-propos-de-cette-documentation}}\label{\detokenize{projet-aPropos::doc}}
 Nous publions cette documentation grâce aux outils suivant :
 \begin{itemize}
@@ -286,7 +287,7 @@ Ainsi, à partir des mêmes fichiers sources, il est possible d’avoir un rendu
 documentation dans bien des formats.
 
 
-\section{Environnement de travail}
+\subsection{Environnement de travail}
 \label{\detokenize{projet-aPropos:environnement-de-travail}}
 Pour information, voici à quoi ressemble mon environnement de travail.
 Je rédige cette page dans \sphinxstylestrong{Eclipse}. Avec une commande (CTRL+B), je génère un rendu
@@ -318,6 +319,10 @@ Synchroniser le dépot de \sphinxstylestrong{github} avec un dossier de travail 
 Configurer \sphinxstyleemphasis{Eclipse} pour que le rendu se fasse par la commande \sphinxstyleemphasis{build all (CTRL + B)}
 
 \end{enumerate}
+
+\begin{sphinxadmonition}{note}{\label{projet-aPropos:index-0}À faire:}
+Ajouter l’interface de rédaction de Bruno
+\end{sphinxadmonition}
 
 
 \bigskip\hrule\bigskip
@@ -392,8 +397,183 @@ notation automatique avec le plugin moodle : grâce à la variable \sphinxstylee
 \end{itemize}
 
 
+\section{Fréquences}
+\label{\detokenize{proba-stat_fr_xe9quences:frequences}}\label{\detokenize{proba-stat_fr_xe9quences::doc}}
+Série d’exercices sur le calcul de fréquence et l’étendue des fréquences pour une série d’échantillons.
+\begin{enumerate}
+\item {} 
+Calcul de la fréquence d’un événement pour un échantillon de taille donnée (Pile ou Face).
+
+\item {} 
+Calcul de l’étendue des fréquences d’une série d’échantillon.
+
+\item {} 
+Calcul de l’étendue des fréquences d’une série d’échantillon (lecture graphique).
+
+\end{enumerate}
+
+\noindent{\hspace*{\fill}\sphinxincludegraphics[width=0.650\linewidth]{{fig-mediane}.png}\hspace*{\fill}}
+
+
+\subsection{Fichiers à télécharger}
+\label{\detokenize{proba-stat_fr_xe9quences:fichiers-a-telecharger}}
+
+\begin{savenotes}\sphinxattablestart
+\centering
+\sphinxcapstartof{table}
+\sphinxcaption{Fréquences}\label{\detokenize{proba-stat_fr_xe9quences:id1}}
+\sphinxaftercaption
+\begin{tabular}[t]{|\X{30}{100}|\X{70}{100}|}
+\hline
+\sphinxstyletheadfamily 
+Fichiers
+&\sphinxstyletheadfamily 
+Description
+\\
+\hline
+\sphinxcode{\sphinxupquote{médiane impaire.ggb}}
+&
+déterminer la fréquence de l’événement « côté face ».
+\\
+\hline
+\sphinxcode{\sphinxupquote{mediane\_paire-impaire-10.ggb}}
+&
+déterminer l’étendue des fréquences.
+\\
+\hline
+\sphinxcode{\sphinxupquote{mediane\_paire-impaire-10.ggb}}
+&
+déterminer l’étendue des fréquences (lecture graphique).
+\\
+\hline
+\end{tabular}
+\par
+\sphinxattableend\end{savenotes}
+
+
+\subsection{Caractéristiques}
+\label{\detokenize{proba-stat_fr_xe9quences:caracteristiques}}\begin{itemize}
+\item {} 
+exercices sur :
+\begin{itemize}
+\item {} 
+5 points (5 questions) pour le premier
+
+\item {} 
+valeurs aléatoires (quantités, unités, questions, etc.)
+
+\item {} 
+notation automatique avec le plugin moodle : grâce à la variable \sphinxstyleemphasis{grade}
+
+\end{itemize}
+
+\end{itemize}
+
+
+\section{Tirages aléatoires}
+\label{\detokenize{proba stat - tirage al_xe9a:tirages-aleatoires}}\label{\detokenize{proba stat - tirage al_xe9a::doc}}
+Exercice de calcul de probabilité à partir d’un cas simple de tirage de boule dans une urne.
+
+\noindent{\hspace*{\fill}\sphinxincludegraphics[width=0.650\linewidth]{{fig-proba-tirage}.png}\hspace*{\fill}}
+
+
+\subsection{Fichiers à télécharger}
+\label{\detokenize{proba stat - tirage al_xe9a:fichiers-a-telecharger}}
+
+\begin{savenotes}\sphinxattablestart
+\centering
+\sphinxcapstartof{table}
+\sphinxcaption{probabilité d’un événement}\label{\detokenize{proba stat - tirage al_xe9a:id1}}
+\sphinxaftercaption
+\begin{tabular}[t]{|\X{30}{100}|\X{70}{100}|}
+\hline
+\sphinxstyletheadfamily 
+Fichiers
+&\sphinxstyletheadfamily 
+Description
+\\
+\hline
+\sphinxcode{\sphinxupquote{proba tirage urne.ggb}}
+&
+calculer la probabilité d’un événement à partir des populations
+\\
+\hline
+\end{tabular}
+\par
+\sphinxattableend\end{savenotes}
+
+
+\subsection{Caractéristiques}
+\label{\detokenize{proba stat - tirage al_xe9a:caracteristiques}}\begin{itemize}
+\item {} 
+exercices sur :
+\begin{itemize}
+\item {} 
+5 points (5 questions) pour le premier
+
+\item {} 
+10 points (10 questions) pour le second
+
+\end{itemize}
+
+\item {} 
+valeurs aléatoires (quantités, unités, questions, etc.)
+
+\item {} 
+notation automatique avec le plugin moodle : grâce à la variable \sphinxstyleemphasis{grade}
+
+\end{itemize}
+
+
 \chapter{Analyse et Algèbre}
 \label{\detokenize{index:analyse-et-algebre}}
+
+\section{Proportionnalité}
+\label{\detokenize{analyse alg_xe8bre - proportionnalit_xe9:proportionnalite}}\label{\detokenize{analyse alg_xe8bre - proportionnalit_xe9::doc}}
+Pour commencer, un exercice de calcul de la quatrième proportionnelle.
+
+\noindent{\hspace*{\fill}\sphinxincludegraphics[width=0.650\linewidth]{{fig-quatrieme_prop}.png}\hspace*{\fill}}
+
+
+\subsection{Fichiers à télécharger}
+\label{\detokenize{analyse alg_xe8bre - proportionnalit_xe9:fichiers-a-telecharger}}
+
+\begin{savenotes}\sphinxattablestart
+\centering
+\sphinxcapstartof{table}
+\sphinxcaption{Calcul de proportionnalité}\label{\detokenize{analyse alg_xe8bre - proportionnalit_xe9:id1}}
+\sphinxaftercaption
+\begin{tabulary}{\linewidth}[t]{|T|T|}
+\hline
+\sphinxstyletheadfamily 
+Fichier
+&\sphinxstyletheadfamily 
+Description
+\\
+\hline
+\sphinxcode{\sphinxupquote{quatrieme prop.ggb}}
+&
+pourcentage direct (calculer une quantité à partir du taux)
+\\
+\hline
+\end{tabulary}
+\par
+\sphinxattableend\end{savenotes}
+
+
+\subsection{Caractéristiques}
+\label{\detokenize{analyse alg_xe8bre - proportionnalit_xe9:caracteristiques}}\begin{itemize}
+\item {} 
+exercices sur 5 points (5 questions)
+
+\item {} 
+valeurs aléatoires (quantités, unités, questions, etc.)
+
+\item {} 
+notation automatique avec le plugin moodle : grâce à la variable \sphinxstyleemphasis{grade}
+
+\end{itemize}
+
 
 \section{Pourcentages}
 \label{\detokenize{analyse alg_xe8bre - pourcentages:pourcentages}}\label{\detokenize{analyse alg_xe8bre - pourcentages::doc}}
@@ -503,6 +683,54 @@ notation automatique avec le plugin moodle : grâce à la variable \sphinxstylee
 \end{itemize}
 
 
+\section{Équation du premier degré}
+\label{\detokenize{analyse alg_xe8bre - _xe9quation degr_xe91:equation-du-premier-degre}}\label{\detokenize{analyse alg_xe8bre - _xe9quation degr_xe91::doc}}
+Exercice sur la résolution d’équations du premier degré à une inconnue.
+Aléatoirement sont proposées des équations de type ax+b=0 ou ax+b=cx+d.
+
+\noindent{\hspace*{\fill}\sphinxincludegraphics[width=0.650\linewidth]{{fig-equa1}.png}\hspace*{\fill}}
+
+
+\subsection{Fichiers à télécharger}
+\label{\detokenize{analyse alg_xe8bre - _xe9quation degr_xe91:fichiers-a-telecharger}}
+
+\begin{savenotes}\sphinxattablestart
+\centering
+\sphinxcapstartof{table}
+\sphinxcaption{Calcul d’images}\label{\detokenize{analyse alg_xe8bre - _xe9quation degr_xe91:id1}}
+\sphinxaftercaption
+\begin{tabular}[t]{|\X{30}{100}|\X{70}{100}|}
+\hline
+\sphinxstyletheadfamily 
+Fichiers
+&\sphinxstyletheadfamily 
+Description
+\\
+\hline
+\sphinxcode{\sphinxupquote{resolution equation degre1.ggb}}
+&
+calculer des équations du premier degré à une inconnue
+\\
+\hline
+\end{tabular}
+\par
+\sphinxattableend\end{savenotes}
+
+
+\subsection{Caractéristiques}
+\label{\detokenize{analyse alg_xe8bre - _xe9quation degr_xe91:caracteristiques}}\begin{itemize}
+\item {} 
+exercices sur 5 points (5 questions)
+
+\item {} 
+valeurs aléatoires (quantités, unités, questions, etc.)
+
+\item {} 
+notation automatique avec le plugin moodle : grâce à la variable \sphinxstyleemphasis{grade}
+
+\end{itemize}
+
+
 \section{Fonctions}
 \label{\detokenize{analyse alg_xe8bre - fonctions:fonctions}}\label{\detokenize{analyse alg_xe8bre - fonctions::doc}}
 
@@ -582,18 +810,143 @@ notation automatique avec le plugin moodle : grâce à la variable \sphinxstylee
 \chapter{Géométrie}
 \label{\detokenize{index:geometrie}}
 
-\section{Vecteurs}
-\label{\detokenize{geom-vecteur::doc}}\label{\detokenize{geom-vecteur:vecteurs}}
-\noindent{\hspace*{\fill}\sphinxincludegraphics[width=0.650\linewidth]{{fig-vecteur}.png}\hspace*{\fill}}
+\section{Pythagore}
+\label{\detokenize{geom-pythagore:pythagore}}\label{\detokenize{geom-pythagore::doc}}
+Calculs de longueurs dans le triangle rectangle avec le théorème de Pythagore, le calcul
+attendu concerne aléatoirement l’hypothénuse ou un côté de l’angle droit.
+
+\noindent{\hspace*{\fill}\sphinxincludegraphics[width=0.650\linewidth]{{fig-pythagore_longueurs}.png}\hspace*{\fill}}
 
 
 \subsection{Fichiers à télécharger}
+\label{\detokenize{geom-pythagore:fichiers-a-telecharger}}
+
+\begin{savenotes}\sphinxattablestart
+\centering
+\sphinxcapstartof{table}
+\sphinxcaption{Calcul de longueurs dans le triangle rectangle avec le théorème de Pythagore}\label{\detokenize{geom-pythagore:id1}}
+\sphinxaftercaption
+\begin{tabular}[t]{|\X{2}{4}|\X{2}{4}|}
+\hline
+\sphinxstyletheadfamily 
+Fichier
+&\sphinxstyletheadfamily 
+Description
+\\
+\hline
+\sphinxcode{\sphinxupquote{pythagore longueurs.ggb}}
+&
+calculer des longueurs avec le théorème de Pythagore
+\\
+\hline
+\end{tabular}
+\par
+\sphinxattableend\end{savenotes}
+
+
+\subsection{Caractéristiques}
+\label{\detokenize{geom-pythagore:caracteristiques}}\begin{itemize}
+\item {} 
+exercices sur 5 points (5 questions)
+
+\item {} 
+valeurs aléatoires (quantités, unités, questions, etc.)
+
+\item {} 
+notation automatique avec le plugin moodle : grâce à la variable \sphinxstyleemphasis{grade}
+
+\item {} 
+correction personnalisée
+
+\end{itemize}
+
+
+\section{Thalès}
+\label{\detokenize{geom-thales:thales}}\label{\detokenize{geom-thales::doc}}
+Calculs de longueurs dans des triangles semblables avec le théorème de Thalès.
+Différentes configurations sont proposées de façon aléatoires.
+
+\noindent{\hspace*{\fill}\sphinxincludegraphics[width=0.650\linewidth]{{fig-Thales}.png}\hspace*{\fill}}
+
+
+\subsection{Fichiers à télécharger}
+\label{\detokenize{geom-thales:fichiers-a-telecharger}}
+
+\begin{savenotes}\sphinxattablestart
+\centering
+\sphinxcapstartof{table}
+\sphinxcaption{Calcul de longueurs de triangles  avec le théorème de Thalès}\label{\detokenize{geom-thales:id1}}
+\sphinxaftercaption
+\begin{tabular}[t]{|\X{2}{4}|\X{2}{4}|}
+\hline
+\sphinxstyletheadfamily 
+Fichier
+&\sphinxstyletheadfamily 
+Description
+\\
+\hline
+\sphinxcode{\sphinxupquote{thales longueurs.ggb}}
+&
+calculer des longueurs avec le théorème de Thalès
+\\
+\hline
+\end{tabular}
+\par
+\sphinxattableend\end{savenotes}
+
+
+\subsection{Caractéristiques}
+\label{\detokenize{geom-thales:caracteristiques}}\begin{itemize}
+\item {} 
+exercices sur 5 points (5 questions)
+
+\item {} 
+valeurs aléatoires (quantités, unités, questions, etc.)
+
+\item {} 
+notation automatique avec le plugin moodle : grâce à la variable \sphinxstyleemphasis{grade}
+
+\item {} 
+correction personnalisée
+
+\end{itemize}
+
+
+\section{Vecteurs}
+\label{\detokenize{geom-vecteur::doc}}\label{\detokenize{geom-vecteur:vecteurs}}
+Ici, deux séries d’exercices :
+\begin{itemize}
+\item {} 
+{\hyperref[\detokenize{geom-vecteur:plan}]{\sphinxcrossref{\DUrole{std,std-ref}{Vecteurs dans le plan}}}}
+
+\item {} 
+{\hyperref[\detokenize{geom-vecteur:espace}]{\sphinxcrossref{\DUrole{std,std-ref}{Vecteurs dans l’espace}}}}
+
+\end{itemize}
+
+
+\subsection{Vecteurs dans le plan}
+\label{\detokenize{geom-vecteur:plan}}\label{\detokenize{geom-vecteur:vecteurs-dans-le-plan}}
+Série d’exercices sur les vecteurs dans le plan.
+\begin{enumerate}
+\item {} 
+Calcul des coordonnées d’un vecteur plan à partir des coordonnées de 2 points.
+
+\item {} 
+Calcul de la norme d’un vecteur plan à partir des coordonnées de celui-ci.
+
+\end{enumerate}
+
+\noindent{\hspace*{\fill}\sphinxincludegraphics[width=0.650\linewidth]{{fig-vecteur}.png}\hspace*{\fill}}
+
+
+\subsubsection{Fichiers à télécharger}
 \label{\detokenize{geom-vecteur:fichiers-a-telecharger}}
 
 \begin{savenotes}\sphinxattablestart
 \centering
 \sphinxcapstartof{table}
-\sphinxcaption{Coordonnées et normes dans le plan}\label{\detokenize{geom-vecteur:id1}}
+\sphinxcaption{Coordonnées et normes dans le plan}\label{\detokenize{geom-vecteur:id2}}
 \sphinxaftercaption
 \begin{tabular}[t]{|\X{2}{4}|\X{2}{4}|}
 \hline
@@ -618,35 +971,20 @@ calculer la norme d’un vecteur dans le plan (à partir des coordonnées)
 \sphinxattableend\end{savenotes}
 
 
-\subsection{Caractéristiques}
-\label{\detokenize{geom-vecteur:caracteristiques}}\begin{itemize}
-\item {} 
-exercices sur 5 points (5 questions)
+\subsection{Vecteurs dans l’espace}
+\label{\detokenize{geom-vecteur:vecteurs-dans-l-espace}}\label{\detokenize{geom-vecteur:espace}}
+Série d’exercices sur les vecteurs dans l’espace : calcul de coordonnées et de normes.
 
-\item {} 
-valeurs aléatoires (quantités, unités, questions, etc.)
-
-\item {} 
-notation automatique avec le plugin moodle : grâce à la variable \sphinxstyleemphasis{grade}
-
-\item {} 
-correction personnalisée
-
-\end{itemize}
-
-
-\section{Vecteurs dans l’espace}
-\label{\detokenize{geom-vecteur3D::doc}}\label{\detokenize{geom-vecteur3D:vecteurs-dans-l-espace}}
 \noindent{\hspace*{\fill}\sphinxincludegraphics[width=0.650\linewidth]{{fig-vecteur3D}.png}\hspace*{\fill}}
 
 
-\subsection{Fichiers à télécharger}
-\label{\detokenize{geom-vecteur3D:fichiers-a-telecharger}}
+\subsubsection{Fichiers à télécharger}
+\label{\detokenize{geom-vecteur:id1}}
 
 \begin{savenotes}\sphinxattablestart
 \centering
 \sphinxcapstartof{table}
-\sphinxcaption{Coordonnées et normes dans l’espace”}\label{\detokenize{geom-vecteur3D:id1}}
+\sphinxcaption{Coordonnées et normes dans l’espace”}\label{\detokenize{geom-vecteur:id3}}
 \sphinxaftercaption
 \begin{tabular}[t]{|\X{2}{4}|\X{2}{4}|}
 \hline
@@ -677,7 +1015,7 @@ calculer la norme d’un vecteur dans le plan (à partir des coordonnées de ses
 
 
 \subsection{Caractéristiques}
-\label{\detokenize{geom-vecteur3D:caracteristiques}}\begin{itemize}
+\label{\detokenize{geom-vecteur:caracteristiques}}\begin{itemize}
 \item {} 
 exercices sur 5 points (5 questions)
 

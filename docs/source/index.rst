@@ -119,3 +119,10 @@ Sciences
 
 * :ref:`genindex`
 * :ref:`search`
+
+
+-----
+
+.. image:: http://readthedocs.org/projects/iremlp/badge/?version=latest
+   :target: http://iremlp.readthedocs.io/fr/latest/?badge=latest
+   :alt: Documentation Status
